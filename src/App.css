@@ -1,0 +1,42 @@
+/* src/App.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+.section {
+  border: 2px solid #333;
+  padding: 20px;
+  position: relative;
+  min-height: 400px;
+}
+
+.label {
+  display: inline-block;
+  border: 2px solid #333;
+  padding: 8px 16px;
+  font-weight: bold;
+  background-color: white;
+}
+
+/* スマホ用 */
+@media (max-width: 850px) {
+  .main-content {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+}
