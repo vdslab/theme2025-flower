@@ -3,7 +3,7 @@ import { useRef, useEffect, useState } from "react";
 
 const margin = { top: 20, right: 20, bottom: 40, left: 40 };
 
-const Sanpu = ({ height, width }) => {
+const Sanpu = ({ height, width, onNodeClick }) => {
   const [bunsanData, setBunsanData] = useState([]);
 
   useEffect(() => {
@@ -102,6 +102,7 @@ const Sanpu = ({ height, width }) => {
           }}
           onClick={() => {
             console.log(d.filename);
+            onNodeClick(d);
           }}
         />
       ))}
