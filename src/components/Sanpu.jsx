@@ -3,7 +3,7 @@ import { useRef, useEffect, useState } from "react";
 
 const margin = { top: 20, right: 20, bottom: 40, left: 40 };
 
-const Sanpu = ({ height, width, onNodeClick }) => {
+const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
   const [selectedNodes, setSelectedNodes] = useState([]);
   const [bunsanData, setBunsanData] = useState([]);
 
@@ -20,6 +20,10 @@ const Sanpu = ({ height, width, onNodeClick }) => {
     };
     fetchData();
   }, []);
+
+  useEffect(() => {
+    onNodesSelect?.(selectedNodes);
+  }, [selectedNodes, onNodesSelect]);
 
   // データが空の場合のデフォルト値を設定
   const xScale = d3
