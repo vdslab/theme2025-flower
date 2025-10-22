@@ -4,6 +4,7 @@ import { useRef, useEffect, useState } from "react";
 const margin = { top: 20, right: 20, bottom: 40, left: 40 };
 
 const Sanpu = ({ height, width, onNodeClick }) => {
+  const [selectedNodes, setSelectedNodes] = useState([]);
   const [bunsanData, setBunsanData] = useState([]);
 
   useEffect(() => {
@@ -87,25 +88,52 @@ const Sanpu = ({ height, width, onNodeClick }) => {
 
   return (
     <svg width={width} height={height}>
-      {simulateData.map((d, i) => (
-        <image
-          key={i}
-          href={`/image/all_flower/${d.filename}`}
-          x={d.x - size / 2}
-          y={d.y - size / 2}
-          height={size}
-          width={size}
-          preserveAspectRatio="xMidYMid slice"
-          style={{
-            cursor: "pointer",
-            clipPath: "circle(50%)",
-          }}
-          onClick={() => {
-            console.log(d.filename);
-            onNodeClick(d);
-          }}
-        />
-      ))}
+      {simulateData.map((d, i) => {
+        const isSelected = selectedNodes.some(
+          (node) => node.filename === d.filename
+        );
+
+        return (
+          <g key={i}>
+            {isSelected && (
+              <circle
+                cx={d.x}
+                cy={d.y}
+                r={size / 2 + 3}
+                fill="none"
+                stroke="#00ffc3ff"
+                strokeWidth="4"
+              />
+            )}
+            <image
+              href={`/image/all_flower/${d.filename}`}
+              x={d.x - size / 2}
+              y={d.y - size / 2}
+              height={size}
+              width={size}
+              preserveAspectRatio="xMidYMid slice"
+              style={{
+                cursor: "pointer",
+                clipPath: "circle(50%)",
+              }}
+              onClick={() => {
+                console.log(d.filename);
+                onNodeClick(d);
+                setSelectedNodes((prev) => {
+                  const isSelected = prev.some(
+                    (node) => node.filename === d.filename
+                  );
+                  if (isSelected) {
+                    return prev.filter((node) => node.filename !== d.filename);
+                  } else {
+                    return [...prev, d];
+                  }
+                });
+              }}
+            />
+          </g>
+        );
+      })}
     </svg>
   );
 };
