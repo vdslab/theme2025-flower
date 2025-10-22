@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import ColorViz from "./components/ColorViz";
 import ExpandableDetail from "./components/ExpandableDetail";
 import SelectedNodesPanel from "./components/SelectedNodesPanel";
+import GenerationPanel from "./components/GenerationPanel";
 import { useState } from "react";
 
 function App() {
@@ -36,11 +37,14 @@ function App() {
           />
         </div>
         {selectedNodes.length > 0 && (
-          <SelectedNodesPanel
-            selectedNodes={selectedNodes}
-            onNodeRemove={handleNodeRemove}
-            onClearAll={handleClearAll}
-          />
+          <div className="sidebar-panels">
+            <SelectedNodesPanel
+              selectedNodes={selectedNodes}
+              onNodeRemove={handleNodeRemove}
+              onClearAll={handleClearAll}
+            />
+            <GenerationPanel />
+          </div>
         )}
 
         {selectedData && (
