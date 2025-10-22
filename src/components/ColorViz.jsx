@@ -3,7 +3,7 @@ import "../styles/colorViz.css";
 import Sanpu from "./Sanpu";
 import * as d3 from "d3";
 
-const ColorViz = ({ onNodeClick }) => {
+const ColorViz = ({ onNodeClick, onNodesSelect, hasSidebar }) => {
   const [windowSize, setWindowSize] = useState({
     width: window.innerWidth,
     height: window.innerHeight,
