@@ -3,7 +3,8 @@ import { useRef, useEffect, useState } from "react";
 
 const margin = { top: 10, right: 20, bottom: 10, left: 10 };
 
-const Sanpu = ({ height, width, onNodeClick }) => {
+const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
+  const [selectedNodes, setSelectedNodes] = useState([]);
   const [bunsanData, setBunsanData] = useState([]);
   const size = 65;
   const [simulateData, setSimulateData] = useState([]);
@@ -29,6 +30,8 @@ const Sanpu = ({ height, width, onNodeClick }) => {
   }, []);
 
   useEffect(() => {
+    onNodesSelect?.(selectedNodes);
+  }, [selectedNodes, onNodesSelect]);
     //zoom
     zoomRef.current = d3
       .zoom()
@@ -110,28 +113,55 @@ const Sanpu = ({ height, width, onNodeClick }) => {
 
   return (
     <svg ref={svgRef} width={width} height={height}>
-      <g transform={`translate(${x},${y})scale(${k})`}>
-        {simulateData.map((d, i) => (
-          <image
-            key={i}
-            href={`/image/all_flower/${d.filename}`}
-            x={d.x - size / 2}
-            y={d.y - size / 2}
-            height={size}
-            width={size}
-            preserveAspectRatio="xMidYMid slice"
-            style={{
-              cursor: "pointer",
-              clipPath: "circle(50%)",
-            }}
-            onClick={() => {
-              console.log(d.filename);
-              onNodeClick(d);
-              zoomToNde(d);
-            }}
-          />
-        ))}
-      </g>
+    <g transform={`translate(${x},${y})scale(${k})`}>
+      {simulateData.map((d, i) => {
+        const isSelected = selectedNodes.some(
+          (node) => node.filename === d.filename
+        );
+
+        return (
+          <g key={i}>
+            {isSelected && (
+              <circle
+                cx={d.x}
+                cy={d.y}
+                r={size / 2 + 3}
+                fill="none"
+                stroke="#00ffc3ff"
+                strokeWidth="4"
+              />
+            )}
+            <image
+              href={`/image/all_flower/${d.filename}`}
+              x={d.x - size / 2}
+              y={d.y - size / 2}
+              height={size}
+              width={size}
+              preserveAspectRatio="xMidYMid slice"
+              style={{
+                cursor: "pointer",
+                clipPath: "circle(50%)",
+              }}
+              onClick={() => {
+                console.log(d.filename);
+                onNodeClick(d);
+                zoomToNde(d);
+                setSelectedNodes((prev) => {
+                  const isSelected = prev.some(
+                    (node) => node.filename === d.filename
+                  );
+                  if (isSelected) {
+                    return prev.filter((node) => node.filename !== d.filename);
+                  } else {
+                    return [...prev, d];
+                  }
+                });
+              }}
+            />
+          </g>
+        );
+      })}
+       </g>
     </svg>
   );
 };

@@ -22,12 +22,17 @@ const ColorViz = ({ onNodeClick }) => {
     return () => window.removeEventListener("resize", reSizeWindow);
   }, []);
 
+  const vizWidth = hasSidebar
+    ? windowSize.width * 0.78
+    : windowSize.width * 0.98;
+
   return (
     <section className="section">
       <Sanpu
-        width={windowSize.width * 0.98}
+        width={vizWidth}
         height={windowSize.height * 0.87}
         onNodeClick={onNodeClick}
+        onNodesSelect={onNodesSelect}
       />
     </section>
   );
