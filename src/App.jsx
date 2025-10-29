@@ -25,17 +25,12 @@ function App() {
     <div className="container">
       <Header />
       <main className="main-content">
-        <div
-          className={`viz-area ${
-            selectedNodes.length > 0 ? "with-sidebar" : ""
-          }`}
-        >
-          <ColorViz
-            onNodeClick={setSelectedData}
-            onNodesSelect={setSelectedNodes}
-            hasSidebar={selectedNodes.length > 0}
-          />
-        </div>
+        <ColorViz
+          onNodeClick={setSelectedData}
+          onNodesSelect={setSelectedNodes}
+          hasSidebar={selectedNodes.length > 0}
+        />
+
         {selectedNodes.length > 0 && (
           <div className="sidebar-panels">
             <SelectedNodesPanel
