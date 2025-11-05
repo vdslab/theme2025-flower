@@ -1,6 +1,7 @@
 import "../styles/generationPanel.css";
-function GenerationPanel() {
-  return <div className="generation">画像生成場所</div>;
-}
+import GeminiApi from "./GeminiAPI";
+const GenerationPanel = ({ flowerList }) => {
+  return <GeminiApi flowerList={flowerList} />;
+};
 
 export default GenerationPanel;

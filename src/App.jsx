@@ -20,6 +20,7 @@ function App() {
     setSelectedNodes([]);
   };
   console.log("selectedNodes:", selectedNodes);
+  console.log("selectData", selectedData);
 
   return (
     <div className="container">
@@ -38,7 +39,7 @@ function App() {
               onNodeRemove={handleNodeRemove}
               onClearAll={handleClearAll}
             />
-            <GenerationPanel />
+            <GenerationPanel flowerList={selectedNodes} />
           </div>
         )}
 
