@@ -30,7 +30,7 @@ const ColorViz = ({
     <section className="section">
       <Sanpu
         width={windowSize.width}
-        height={windowSize.height * 0.87}
+        height={windowSize.height}
         onNodeClick={onNodeClick}
         onNodesSelect={onNodesSelect}
         selectedNodes={selectedNodes}
