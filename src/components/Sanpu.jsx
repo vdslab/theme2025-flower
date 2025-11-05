@@ -3,8 +3,13 @@ import { useRef, useEffect, useState } from "react";
 
 const margin = { top: 10, right: 10, bottom: 10, left: 10 };
 
-const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
-  const [selectedNodes, setSelectedNodes] = useState([]);
+const Sanpu = ({
+  height,
+  width,
+  onNodeClick,
+  onNodesSelect,
+  selectedNodes,
+}) => {
   const [bunsanData, setBunsanData] = useState([]);
   const size = 65;
   const [simulateData, setSimulateData] = useState([]);
@@ -28,10 +33,6 @@ const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
     };
     fetchData();
   }, []);
-
-  useEffect(() => {
-    onNodesSelect?.(selectedNodes);
-  }, [selectedNodes, onNodesSelect]);
 
   useEffect(() => {
     //zoom
@@ -134,7 +135,7 @@ const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
                 />
               )}
               <image
-                href={`/image/all_flower/${d.filename}`}
+                href={`/images/all_flower/${d.filename}`}
                 x={d.x - size / 2}
                 y={d.y - size / 2}
                 height={size}
@@ -147,18 +148,19 @@ const Sanpu = ({ height, width, onNodeClick, onNodesSelect }) => {
                 onClick={() => {
                   console.log(d.filename);
                   onNodeClick(d);
-                  setSelectedNodes((prev) => {
-                    const isSelected = prev.some(
-                      (node) => node.filename === d.filename
-                    );
-                    if (isSelected) {
-                      return prev.filter(
+                  const isSelected = selectedNodes.some(
+                    (node) => node.filename === d.filename
+                  );
+                  if (isSelected) {
+                    onNodesSelect(
+                      selectedNodes.filter(
                         (node) => node.filename !== d.filename
-                      );
-                    } else {
-                      return [...prev, d];
-                    }
-                  });
+                      )
+                    );
+                  } else {
+                    onNodesSelect([...selectedNodes, d]);
+                  }
+
                   zoomToNode(d);
                 }}
               />

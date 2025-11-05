@@ -1,4 +1,5 @@
 import "../styles/selectedNodesPanel.css";
+import { RxCross2 } from "react-icons/rx";
 
 function SelectedNodesPanel({ selectedNodes, onNodeRemove, onClearAll }) {
   return (
@@ -16,12 +17,14 @@ function SelectedNodesPanel({ selectedNodes, onNodeRemove, onClearAll }) {
         {selectedNodes.map((node, i) => (
           <div key={i} className="node-item">
             <img
-              src={`/image/all_flower/${node.filename}`}
+              src={`/images/all_flower/${node.filename}`}
               alt={node.filename}
             />
-            <span className="node-name">{node.filename}</span>
+            <span className="node-name">
+              {node.filename.replace(".jpeg", " ")}
+            </span>
             <button onClick={() => onNodeRemove(node)} className="remove-btn">
-              ×
+              <RxCross2 />
             </button>
           </div>
         ))}

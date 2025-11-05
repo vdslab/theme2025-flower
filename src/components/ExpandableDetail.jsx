@@ -1,12 +1,14 @@
 import "../styles/ExpandableDetail.css";
+import { RxCross2 } from "react-icons/rx";
+
 function ExpandableDetail({ data, onClose }) {
   return (
     <div className="expandable-detail">
       <button onClick={onClose} className="close-button">
-        ×
+        <RxCross2 />
       </button>
       <img
-        src={`/image/all_flower/${data.filename}`}
+        src={`/images/all_flower/${data.filename}`}
         alt={data.filename}
         style={{ width: "200px", height: "200px", objectFit: "cover" }}
       />

@@ -19,6 +19,11 @@ const Header = () => {
         >
           {getImage ? "作成中..." : "作成"}
         </button>
+        <div className="search-content">
+          <button className="search-button">色から探す</button>
+          <button className="search-button">開花時期から探す</button>
+          <button className="search-button">イベントから探す</button>
+        </div>
       </header>
       {openGemini && (
         <GeminiApi
