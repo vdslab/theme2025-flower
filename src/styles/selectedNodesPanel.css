@@ -93,6 +93,10 @@
   font-size: 18px;
   line-height: 1;
   transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
 }
 
 .remove-btn:hover {

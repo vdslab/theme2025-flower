@@ -2,7 +2,12 @@ import { useEffect, useRef, useState } from "react";
 import "../styles/colorViz.css";
 import Sanpu from "./Sanpu";
 
-const ColorViz = ({ onNodeClick, onNodesSelect, hasSidebar }) => {
+const ColorViz = ({
+  onNodeClick,
+  onNodesSelect,
+  hasSidebar,
+  selectedNodes,
+}) => {
   const [windowSize, setWindowSize] = useState({
     width: window.innerWidth,
     height: window.innerHeight,
@@ -28,6 +33,7 @@ const ColorViz = ({ onNodeClick, onNodesSelect, hasSidebar }) => {
         height={windowSize.height * 0.87}
         onNodeClick={onNodeClick}
         onNodesSelect={onNodesSelect}
+        selectedNodes={selectedNodes}
       />
     </section>
   );

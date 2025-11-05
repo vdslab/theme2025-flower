@@ -28,7 +28,7 @@ const GeminiApi = ({ flowerList }) => {
           flowerList.map((flower) => changeBase64(flower.image))
         );
         setPromptImgList(
-          base64Images.map((base64) => `data:image/png;base64,${base64}`)
+          base64Images.map((base64) => `data:images/png;base64,${base64}`)
         );
       } catch (error) {
         console.error("Error converting images to base64:", error);
@@ -72,7 +72,7 @@ const GeminiApi = ({ flowerList }) => {
           for (const part of response.candidates[0].content.parts) {
             if (part.inlineData) {
               const imageData = part.inlineData.data;
-              setGeneratedImage(`data:image/png;base64,${imageData}`);
+              setGeneratedImage(`data:images/png;base64,${imageData}`);
             }
           }
         } else {

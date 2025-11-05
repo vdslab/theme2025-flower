@@ -30,6 +30,7 @@ function App() {
           onNodeClick={setSelectedData}
           onNodesSelect={setSelectedNodes}
           hasSidebar={selectedNodes.length > 0}
+          selectedNodes={selectedNodes}
         />
 
         {selectedNodes.length > 0 && (
