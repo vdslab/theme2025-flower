@@ -1,0 +1,3294 @@
+{
+  "ひこ星.jpeg": {
+    "name": "桔梗",
+    "family_ja": "キキョウ科",
+    "colors_ja": ["青", "紫", "白"],
+    "colors_en": ["blue", "purple", "white"],
+    "prompt": "Campanulaceae Platycodon grandiflorus, colors blue purple white, star-shaped bell-shaped",
+    "bloom_season": ["夏", "秋"],
+    "flower_language": "永遠の愛、誠実",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アルーラ.jpeg": {
+    "name": "アルーラ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["持続"],
+      "希望": ["未来への憧れ"],
+      "個性": ["エキゾチック"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "清涼殿.jpeg": {
+    "name": "清涼殿",
+    "family_ja": "キク科",
+    "colors_ja": ["白", "黄"],
+    "colors_en": ["white", "yellow"],
+    "prompt": "Asteraceae chrysanthemum, colors white yellow",
+    "bloom_season": [9, 10, 11],
+    "flower_language": {
+      "努力": ["忍耐"],
+      "美しさ": ["優美"],
+      "繊細": ["繊細"],
+      "愛情": ["愛の象徴"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "夕映.jpeg": {
+    "name": "夕映",
+    "family_ja": "キク科",
+    "colors_ja": ["赤", "オレンジ"],
+    "colors_en": ["red", "orange"],
+    "prompt": "Asteraceae chrysanthemum, colors red orange",
+    "bloom_season": ["秋"],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "一番星.jpeg": {
+    "name": "一番星",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["すがすがしい美しさ", "優美"],
+      "希望": ["希望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ライラッククラシック.jpeg": {
+    "name": "ライラッククラシック",
+    "family_ja": "モクセイ科",
+    "colors_ja": ["紫", "ライラック"],
+    "colors_en": ["purple", "lilac"],
+    "prompt": "Oleaceae Syringa, colors purple lilac",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "高貴": ["誇り"],
+      "美しさ": ["気品"],
+      "尊敬": ["尊敬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アクアブルー.jpeg": {
+    "name": "アクアブルー",
+    "family_ja": "",
+    "colors_ja": ["青", "水色"],
+    "colors_en": ["blue", "aqua"],
+    "prompt": "colors blue aqua",
+    "bloom_season": [4, 5, 6],
+    "flower_language": {
+      "永遠": ["永遠の幸福"],
+      "感謝": ["感謝"],
+      "希望": ["夢かなう"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マリティム.jpeg": {
+    "name": "マリティム",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [5, 6, 7, 8, 9, 10, 11],
+    "flower_language": {
+      "愛情": ["永遠の愛"],
+      "献身": ["あなたのものになりたい"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "クラリスピンク.jpeg": {
+    "name": "クラリスピンク",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Turkish bellflower, double Claris Pink, colors pink",
+    "bloom_season": [4, 5, 6, 7, 9, 10],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アライアンス.jpeg": {
+    "name": "アライアンス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Gerbera Standard (Large Flower) Alliance (Black Center)'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望", "前進"],
+      "優しさ": ["思いやり"],
+      "愛情": ["愛情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スパークリンググラフィティ.jpeg": {
+    "name": "スパークリンググラフィティ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "sparkling pattern",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ローズゼラニウム.jpeg": {
+    "name": "ローズゼラニウム",
+    "family_ja": "フウロソウ科",
+    "colors_ja": ["ピンク", "赤"],
+    "colors_en": ["pink", "red"],
+    "prompt": "Geranium Rose Geranium, Geraniaceae Pelargonium, colors pink red, rose-scented",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "選択": ["選択"],
+      "決心": ["決心"],
+      "友情": ["真の友情"],
+      "育ちの良さ": ["育ちの良さ"],
+      "勇気": ["上流気質"],
+      "幸福": ["君ありて幸福"],
+      "愛情": ["愛情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "パーティラナンキュラ.jpeg": {
+    "name": "パーティラナンキュラ",
+    "family_ja": "キンポウゲ科",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Ranunculaceae Ranunculus",
+    "bloom_season": ["春"],
+    "flower_language": "とても魅力的",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ノーブルライト.jpeg": {
+    "name": "ノーブルライト",
+    "family_ja": "",
+    "colors_ja": ["白", "淡色"],
+    "colors_en": ["white", "light"],
+    "prompt": "colors white light",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["気品", "優美", "華麗"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "バイパーワイン.jpeg": {
+    "name": "バイパーワイン",
+    "family_ja": "",
+    "colors_ja": ["ワインレッド", "赤紫"],
+    "colors_en": ["wine", "burgundy"],
+    "prompt": "colors wine burgundy",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アリシア.jpeg": {
+    "name": "アリシア",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Spray Alicia'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"],
+      "感謝": ["感謝"],
+      "謙虚": ["しとやかさ"],
+      "優しさ": ["包容力"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロジーナブルーピコティ.jpeg": {
+    "name": "ロジーナブルーピコティ",
+    "family_ja": "リンドウ科",
+    "colors_ja": ["青", "白"],
+    "colors_en": ["blue", "white"],
+    "prompt": "Gentianaceae Eustoma, colors blue white, picotee edges",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["すがすがしい美しさ", "優美"],
+      "希望": ["希望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "チェリオ.jpeg": {
+    "name": "チェリオ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "キャンディータフト.jpeg": {
+    "name": "キャンディータフト",
+    "family_ja": "アブラナ科",
+    "colors_ja": ["白", "ピンク", "紫"],
+    "colors_en": ["white", "pink", "purple"],
+    "prompt": "Iberis (candy tuft) Candy tuft (lilac)', Brassicaceae Iberis, colors white pink purple",
+    "bloom_season": [4, 5, 6],
+    "flower_language": {
+      "感動": ["心をひきつける"],
+      "初恋": ["初恋の思い出", "甘い誘惑"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アーリエス.jpeg": {
+    "name": "アーリエス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Standard Aries (+)'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "感謝": ["感謝"],
+      "美しさ": ["美しい"],
+      "愛情": ["愛情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "バイパー.jpeg": {
+    "name": "バイパー",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "恋心.jpeg": {
+    "name": "恋心",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Pink Spray Carnation, colors pink",
+    "bloom_season": [4, 5, 6, 7, 8, 9, 10],
+    "flower_language": {
+      "純粋": ["純粋な愛"],
+      "感動": ["感動"],
+      "愛情": ["あなたを想う"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ボヤージュライトアプリコット.jpeg": {
+    "name": "ボヤージュライトアプリコット",
+    "family_ja": "",
+    "colors_ja": ["アプリコット", "オレンジ"],
+    "colors_en": ["apricot", "orange"],
+    "prompt": "Turkish tulip, double, Voyage Light Apricot, colors apricot orange light",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エンジェルヴェール.jpeg": {
+    "name": "エンジェルヴェール",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Rose  Standard Angel Veil, colors white veil-like",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美", "上品"],
+      "謙虚": ["しとやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ブロッサムピンク.jpeg": {
+    "name": "ブロッサムピンク",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose Standard Blossom Pink', colors pink blossom",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ファンシーローラ.jpeg": {
+    "name": "ファンシーローラ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Spray Fancy Laura",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["純潔"],
+      "私はあなたにふさわしい": ["私はあなたにふさわしい"],
+      "尊敬": ["深い尊敬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "グラナスライト.jpeg": {
+    "name": "グラナスライト",
+    "family_ja": "",
+    "colors_ja": ["淡色"],
+    "colors_en": ["light"],
+    "prompt": "Turkish bellflower, double, Granas light pink', colors light",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ミヌエット.jpeg": {
+    "name": "ミヌエット",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "純粋": ["素朴"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロサーノシャルロッテダーク.jpeg": {
+    "name": "ロサーノシャルロッテダーク",
+    "family_ja": "バラ科",
+    "colors_ja": ["濃いピンク", "赤"],
+    "colors_en": ["dark pink", "red"],
+    "prompt": "Rosaceae Rosa, colors dark pink red",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マキシマ.jpeg": {
+    "name": "マキシマ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Anthurium Maxima",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["恋にもだえる心"],
+      "美しさ": ["飾らない美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アミコ.jpeg": {
+    "name": "アミコ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロイヤルテン.jpeg": {
+    "name": "ロイヤルテン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Tulip Lily Flower Royal Ten'",
+    "bloom_season": [12, 1, 2, 3],
+    "flower_language": {
+      "愛情": ["愛の芽生え", "誠実な愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "プリマドンナ.jpeg": {
+    "name": "プリマドンナ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Alstroemeria Primadonna'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["幸福"],
+      "永遠": ["持続"],
+      "尊敬": ["未来への憧れ"],
+      "美しさ": ["華やかさ", "優美さ"],
+      "高貴": ["気高さ"],
+      "友情": ["自信", "友情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピンクキャンディケーン.jpeg": {
+    "name": "ピンクキャンディケーン",
+    "family_ja": "",
+    "colors_ja": ["ピンク", "白"],
+    "colors_en": ["pink", "white"],
+    "prompt": "Curcuma Pink Candy Cane, colors pink white striped",
+    "bloom_season": [9, 10, 11],
+    "flower_language": {
+      "努力": ["忍耐"],
+      "あなたの姿に酔いしれる": ["あなたの姿に酔いしれる"],
+      "乙女の香り": ["乙女の香り"],
+      "因縁": ["因縁"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マルガリータ.jpeg": {
+    "name": "マルガリータ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Dahlia Margarita",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優雅", "気品", "華麗"],
+      "不誠実": ["移り気", "裏切り"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スイートダイヤモンド.jpeg": {
+    "name": "スイートダイヤモンド",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Ranunculus phalenopsis Sweet Diamond",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["幸福が飛んでくる"],
+      "純粋": ["清純", "純粋な愛"],
+      "美しさ": ["美しい淑女", "上品"],
+      "愛情": ["あなたを愛しています"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エースピンク.jpeg": {
+    "name": "エースピンク",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose Standard Ace Pink+', colors pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美", "上品"],
+      "謙虚": ["しとやか"],
+      "感動": ["感銘"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ファルファリーナ.jpeg": {
+    "name": "ファルファリーナ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ソルボンヌ.jpeg": {
+    "name": "ソルボンヌ",
+    "family_ja": "ユリ科",
+    "colors_ja": ["ピンク", "白"],
+    "colors_en": ["pink", "white"],
+    "prompt": "Yuri Oriental Sorbonne, Liliaceae Lilium, colors pink white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢", "純潔", "純粋"],
+      "高貴": ["威厳", "高貴"],
+      "荘厳": ["荘厳"],
+      "家族": ["子の愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ソネットフレーズ.jpeg": {
+    "name": "ソネットフレーズ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Dianthus 'Sonnet Phrase'",
+    "bloom_season": [4, 5, 6],
+    "flower_language": {
+      "純粋": ["純愛"],
+      "優しさ": ["温かい心"],
+      "感動": ["思慕"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ンクレディブル！.jpeg": {
+    "name": "インクレディブル",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Standard Pink Lady Blue!",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["気品", "上品"],
+      "謙虚": ["しとやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "フィスタ.jpeg": {
+    "name": "フィスタ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "シャララピコ.jpeg": {
+    "name": "シャララピコ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Carnation Standard Sharara Pico'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ボヌール.jpeg": {
+    "name": "ボヌール",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Standard Bonheur'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ムーンワルツ.jpeg": {
+    "name": "ムーンワルツ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Dahlia Moon Waltz'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優雅", "気品", "華麗"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロジーナピンクピコティ.jpeg": {
+    "name": "ロジーナピンクピコティ",
+    "family_ja": "リンドウ科",
+    "colors_ja": ["ピンク", "白"],
+    "colors_en": ["pink", "white"],
+    "prompt": "Turkish bellflower, double, Rosina Pink Picoti, Gentianaceae Eustoma, colors pink white, picotee edges",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "シャンディピンク.jpeg": {
+    "name": "シャンディピンク",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Starchis Shandy Pink, colors pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["永久不変", "変わらぬ心"],
+      "途絶えない記憶": ["途絶えない記憶"],
+      "いたずら心": ["いたずら心"],
+      "感動": ["驚き"],
+      "幸福": ["愛の喜び"],
+      "美しさ": ["上品"],
+      "謙虚": ["しとやか"],
+      "別れ": ["優しい思い出"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "セレブクイーン.jpeg": {
+    "name": "セレブクイーン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Lisianthus Celeb Queen",
+    "bloom_season": [6, 7, 8, 9, 10],
+    "flower_language": {
+      "美しさ": ["優美"],
+      "希望": ["希望"],
+      "感謝": ["感謝"],
+      "永遠": ["永遠の愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スーパーセンセーション.jpeg": {
+    "name": "スーパーセンセーション",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Rose Spray Super Sensation'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "キノシフォン.jpeg": {
+    "name": "キノシフォン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Stargazer Lily (Cynanchum auriculatum)",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["変わらぬ心", "永遠に変わらない", "途絶えぬ記憶"],
+      "記憶": ["記憶"],
+      "幸福": ["愛の喜び"],
+      "美しさ": ["上品"],
+      "謙虚": ["しとやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スプラッシュセンセーション.jpeg": {
+    "name": "スプラッシュセンセーション",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "splash pattern",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "チェリーテッシノ.jpeg": {
+    "name": "チェリーテッシノ",
+    "family_ja": "",
+    "colors_ja": ["赤", "チェリー"],
+    "colors_en": ["red", "cherry"],
+    "prompt": "colors red cherry",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["あなたを熱愛しています", "愛情"],
+      "幸福": ["幸福"],
+      "感謝": ["感謝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マリポサ.jpeg": {
+    "name": "マリポサ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Carnation Standard Mariposa",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛"],
+      "高貴": ["誇り"],
+      "美しさ": ["気品"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピンクラナンキュラ.jpeg": {
+    "name": "ピンクラナンキュラ",
+    "family_ja": "キンポウゲ科",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose Standard Pink Ranunculus', Ranunculaceae Ranunculus, colors pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美", "上品"],
+      "謙虚": ["しとやか"],
+      "感動": ["感銘"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピンクワルツ.jpeg": {
+    "name": "ピンクワルツ",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Rose 'Pink Waltz', colors pink",
+    "bloom_season": [5, 6, 7, 8, 9, 10],
+    "flower_language": {
+      "美しさ": ["上品"],
+      "愛情": ["愛らしさ"],
+      "感謝": ["感謝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スカイライン.jpeg": {
+    "name": "スカイライン",
+    "family_ja": "",
+    "colors_ja": ["青", "水色"],
+    "colors_en": ["blue", "sky blue"],
+    "prompt": "Carnation Spray Skyline', colors blue sky",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マリーサイモン.jpeg": {
+    "name": "マリーサイモン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Marie Simon Ceanothus",
+    "bloom_season": [6, 7, 8],
+    "flower_language": {
+      "努力": ["努力"],
+      "無駄なことはない": ["無駄なことはない"],
+      "純粋": ["純真"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "セレブピンク.jpeg": {
+    "name": "セレブピンク",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Turkish tulip, Celeb Pink, colors pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ソネットハーティ.jpeg": {
+    "name": "ソネットハーティ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Dianthus 'Sonnet Hearty'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["純愛"],
+      "感動": ["思慕"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ジュミリア.jpeg": {
+    "name": "ジュミリア",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピンクパフェ.jpeg": {
+    "name": "ピンクパフェ",
+    "family_ja": "",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Alstroemeria Pink Parfait', colors pink fluffy",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["幸福"],
+      "凛々しさ": ["凛々しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "グズマニア『サブリナ』.jpeg": {
+    "name": "グズマニア サブリナ",
+    "family_ja": "パイナップル科",
+    "colors_ja": ["赤", "黄"],
+    "colors_en": ["red", "yellow"],
+    "prompt": "Bromeliaceae Guzmania, colors red yellow",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ドンセル.jpeg": {
+    "name": "ドンセル",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Carnation Standard Donsel",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛"],
+      "魅力": ["魅惑"],
+      "愛情": ["愛情"],
+      "感謝": ["感謝"],
+      "美しさ": ["美しい仕草", "気品"],
+      "優しさ": ["温かい心"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ブレンダ.jpeg": {
+    "name": "ブレンダ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Protea 'Brenda'",
+    "bloom_season": [10, 11, 12, 1, 2, 3],
+    "flower_language": {
+      "自由": ["自由"],
+      "大胆": ["大胆"],
+      "高貴": ["風格"],
+      "美しさ": ["華やかな期待"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ホワイトハート.jpeg": {
+    "name": "ホワイトハート",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "colors white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["幸福"],
+      "凛々しさ": ["凛々しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "彩雪.jpeg": {
+    "name": "彩雪",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "colors white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優雅", "気品", "華麗"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ティネケ.jpeg": {
+    "name": "ティネケ",
+    "family_ja": "クワ科",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Moraceae Ficus, variegated foliage",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"],
+      "純粋": ["純潔"],
+      "尊敬": ["深い尊敬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "コンスタンタ.jpeg": {
+    "name": "コンスタンタ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "高貴": ["威厳"],
+      "純粋": ["純潔", "無垢"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アルタイル.jpeg": {
+    "name": "アルタイル",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["清い心"],
+      "幸福": ["切なる喜び"],
+      "勇気": ["無邪気"],
+      "優しさ": ["親切"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ホワイトリリアン.jpeg": {
+    "name": "ホワイトリリアン",
+    "family_ja": "ユリ科",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Liliaceae Lilium, colors white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "高貴": ["気持ちの高まり"],
+      "家族": ["母への愛"],
+      "愛情": ["純粋な愛"],
+      "尊敬": ["尊敬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "コロンホワイト.jpeg": {
+    "name": "コロンホワイト",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "colors white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"],
+      "優しさ": ["思いやり"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "テラカリナ.jpeg": {
+    "name": "テラカリナ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望", "前進"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ミッキーマウス.jpeg": {
+    "name": "ミッキーマウス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "カンツォーネ.jpeg": {
+    "name": "カンツォーネ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛情", "情熱"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "シャラン.jpeg": {
+    "name": "シャラン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "煩悩": ["恋に悶える心", "煩悩"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "カリスト.jpeg": {
+    "name": "カリスト",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "煩悩": ["恋に悶える心", "煩悩"],
+      "愛情": ["情熱"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "フルフル.jpeg": {
+    "name": "フルフル",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "よそおい.jpeg": {
+    "name": "よそおい",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "高貴": ["気持ちの高まり"],
+      "家族": ["母への愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ラナンキュラ.jpeg": {
+    "name": "ラナンキュラス",
+    "family_ja": "キンポウゲ科",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "Ranunculaceae Ranunculus",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "魅力": ["華やかな魅力", "とても魅力的"],
+      "合格": ["合格"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スリ.jpeg": {
+    "name": "スリ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "サムライ.jpeg": {
+    "name": "サムライ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛情", "情熱"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "朝日てまり.jpeg": {
+    "name": "朝日てまり",
+    "family_ja": "キク科",
+    "colors_ja": ["黄", "オレンジ"],
+    "colors_en": ["yellow", "orange"],
+    "prompt": "Asteraceae chrysanthemum, colors yellow orange, pompom shaped",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["華麗"],
+      "成功": ["栄華"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エロス.jpeg": {
+    "name": "エロス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ラララ.jpeg": {
+    "name": "ラララ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "感謝": ["感謝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "レモン.jpeg": {
+    "name": "レモン",
+    "family_ja": "",
+    "colors_ja": ["黄", "レモン"],
+    "colors_en": ["yellow", "lemon"],
+    "prompt": "colors yellow lemon",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["持続"],
+      "希望": ["未来への憧れ", "希望"],
+      "個性": ["エキゾチック"],
+      "友情": ["友情"],
+      "献身": ["献身的な愛"],
+      "幸福": ["幸福な日々"],
+      "さわやか": ["さわやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エターナルビューティー.jpeg": {
+    "name": "エターナルビューティー",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["永遠の愛"],
+      "愛情": ["真実の愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ルミナス.jpeg": {
+    "name": "ルミナス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "luminous",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "優しさ": ["温かい心", "包容力"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ソラーレ.jpeg": {
+    "name": "ソラーレ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "太陽": ["太陽"],
+      "友情": ["信頼", "絆"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ミメテス.jpeg": {
+    "name": "ミメテス",
+    "family_ja": "ヤマモガシ科",
+    "colors_ja": ["オレンジ", "赤"],
+    "colors_en": ["orange", "red"],
+    "prompt": "Proteaceae Mimetes, colors orange red",
+    "bloom_season": [9, 10, 11, 12],
+    "flower_language": {
+      "個性": ["独創性", "個性"],
+      "変化": ["変化を楽しむ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "フェリーク.jpeg": {
+    "name": "フェリーク",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "優しさ": ["温かい心", "包容力"],
+      "感謝": ["感謝"],
+      "愛情": ["情熱", "愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "シャインオン.jpeg": {
+    "name": "シャインオン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "shining",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["光であたりを照らす", "輝き続ける"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "タランティーノ.jpeg": {
+    "name": "タランティーノ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["持続"],
+      "希望": ["未来への憧れ"],
+      "小悪魔的な思い": ["小悪魔的な思い"],
+      "個性": ["エキゾチック"],
+      "幸福": ["幸福"],
+      "凛々しさ": ["凛々しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "サンリッチライチ.jpeg": {
+    "name": "サンリッチライチ",
+    "family_ja": "キク科",
+    "colors_ja": ["オレンジ", "赤"],
+    "colors_en": ["orange", "red"],
+    "prompt": "Asteraceae Helianthus, colors orange red",
+    "bloom_season": [6, 7, 8],
+    "flower_language": {
+      "あなただけを見つめる": ["あなただけを見つめる"],
+      "尊敬": ["憧れ"],
+      "愛情": ["情熱"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "サレア.jpeg": {
+    "name": "サレア",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "旭.jpeg": {
+    "name": "旭",
+    "family_ja": "ひまわり",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [6, 7, 8, 9],
+    "flower_language": {
+      "尊敬": ["憧れ"],
+      "崇拝": ["崇拝"],
+      "誘惑": ["誘惑"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "イリオス.jpeg": {
+    "name": "イリオス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["美"],
+      "友情": ["友情"],
+      "平和": ["平和"],
+      "献身": ["献身"],
+      "嫉妬": ["嫉妬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "NFマンゴー.jpeg": {
+    "name": "NFマンゴー",
+    "family_ja": "",
+    "colors_ja": ["オレンジ", "黄"],
+    "colors_en": ["orange", "yellow"],
+    "prompt": "colors orange yellow mango",
+    "bloom_season": [6, 7, 8, 9],
+    "flower_language": {
+      "感謝": ["感謝"],
+      "希望": ["希望"],
+      "美しさ": ["優美"],
+      "穏やか": ["穏やかな心"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アヴニール.jpeg": {
+    "name": "アヴニール",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["上品"],
+      "かわいい人": ["かわいい人"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アマダ.jpeg": {
+    "name": "アマダ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["最愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "アルストロメリア ゴールド.jpeg": {
+    "name": "アルストロメリア ゴールド",
+    "family_ja": "ユリズイセン科",
+    "colors_ja": ["黄", "金"],
+    "colors_en": ["yellow", "gold"],
+    "prompt": "Alstroemeriaceae Alstroemeria, colors yellow gold",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["持続"],
+      "希望": ["未来への憧れ"],
+      "個性": ["エキゾチック"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "イエローシャンプー.jpeg": {
+    "name": "イエローシャンプー",
+    "family_ja": "",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "colors yellow",
+    "bloom_season": [7, 8, 9, 10],
+    "flower_language": {
+      "豊かな心": ["豊かな心"],
+      "友情": ["信頼"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ヴィクトリアンシークレット.jpeg": {
+    "name": "ヴィクトリアンシークレット",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "感謝": ["感謝"],
+      "愛情": ["情熱", "愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エグゼラべンダー.jpeg": {
+    "name": "エグゼラベンダー",
+    "family_ja": "",
+    "colors_ja": ["ラベンダー", "紫"],
+    "colors_en": ["lavender", "purple"],
+    "prompt": "colors lavender purple",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望"],
+      "美しさ": ["優美", "清々しい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "えくぼ.jpeg": {
+    "name": "えくぼ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "高貴": ["気持ちの高まり"],
+      "家族": ["母への愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "エルメスオレンジ.jpeg": {
+    "name": "エルメスオレンジ",
+    "family_ja": "",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "colors orange",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "オーロラブルー.jpeg": {
+    "name": "オーロラブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue aurora",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["清明"],
+      "幸福": ["幸福を振りまく人"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "オレンジウェーブ.jpeg": {
+    "name": "オレンジウェーブ",
+    "family_ja": "",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "colors orange wavy",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["純粋な愛", "素朴"],
+      "愛情": ["あなたを愛します", "熱愛"],
+      "美しさ": ["気品", "美しい仕草", "集団美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "オレンジクイーン.jpeg": {
+    "name": "オレンジクイーン",
+    "family_ja": "",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "colors orange",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "おしゃれ": ["おしゃれ"],
+      "勇気": ["気取り屋"],
+      "風変り": ["風変り"],
+      "個性": ["個性"],
+      "愛情": ["色あせぬ恋"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "オレンジロマンティカ.jpeg": {
+    "name": "オレンジロマンティカ",
+    "family_ja": "",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "colors orange",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱", "愛"],
+      "美しさ": ["美"],
+      "尊敬": ["尊敬"],
+      "勇気": ["無邪気"],
+      "魅力": ["魅惑"],
+      "友情": ["絆", "信頼"],
+      "さわやか": ["さわやか"],
+      "すこやか": ["すこやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "カルピデューム.jpeg": {
+    "name": "カルピデューム",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱", "愛"],
+      "美しさ": ["美"],
+      "熱望": ["熱望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "カンパネラホットピンク.jpeg": {
+    "name": "カンパネラホットピンク",
+    "family_ja": "キキョウ科",
+    "colors_ja": ["濃いピンク"],
+    "colors_en": ["hot pink"],
+    "prompt": "Campanulaceae Campanula, colors hot pink, bell-shaped",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "感謝": ["感謝"],
+      "愛情": ["可愛らしさ", "愛"],
+      "美しさ": ["上品"],
+      "謙虚": ["しとやか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "キャプテンソロ.jpeg": {
+    "name": "キャプテンソロ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [4, 5, 6, 7],
+    "flower_language": {
+      "美しさ": ["華麗なる美"],
+      "謙虚": ["乙女のしとやかさ"],
+      "純粋": ["清浄"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "キャンディタフト.jpeg": {
+    "name": "キャンディタフト",
+    "family_ja": "アブラナ科",
+    "colors_ja": ["白", "ピンク", "紫"],
+    "colors_en": ["white", "pink", "purple"],
+    "prompt": "Brassicaceae Iberis, colors white pink purple",
+    "bloom_season": [4, 5, 6],
+    "flower_language": {
+      "感動": ["心をひきつける"],
+      "愛情": ["初恋の思い出"],
+      "初恋": ["甘い誘惑"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "クイズダークブルー.jpeg": {
+    "name": "クイズダークブルー",
+    "family_ja": "スカビオサ",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors dark blue",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "煩悩": ["私はすべてを失った", "不幸な恋", "叶わぬ恋"],
+      "未亡人": ["未亡人"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "グランオマージュ.jpeg": {
+    "name": "グランオマージュ",
+    "family_ja": "バラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"],
+      "純粋": ["純潔"],
+      "尊敬": ["深い尊敬"],
+      "私はあなたにふさわしい": ["私はあなたにふさわしい"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "クリームフレグランス.jpeg": {
+    "name": "クリームフレグランス",
+    "family_ja": "バラ",
+    "colors_ja": ["クリーム", "白"],
+    "colors_en": ["cream", "white"],
+    "prompt": "colors cream white fragrant",
+    "bloom_season": [5, 6, 7, 8, 9, 10],
+    "flower_language": {
+      "敬意": ["敬意"],
+      "優しさ": ["思いやり"],
+      "美しさ": ["優雅"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "クリストローゼ.jpeg": {
+    "name": "クリストローゼ",
+    "family_ja": "バラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "永遠": ["永遠の愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "クレスブルー.jpeg": {
+    "name": "クレスブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["あなたを幸せにします"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ケンジントンガーデン.jpeg": {
+    "name": "ケンジントンガーデン",
+    "family_ja": "バラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [5, 6, 7, 8, 9, 10],
+    "flower_language": {
+      "美しさ": ["上品", "優美"],
+      "感謝": ["感謝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ゴールドダスト.jpeg": {
+    "name": "ゴールドダスト",
+    "family_ja": "スプレーバラ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "colors yellow gold",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"],
+      "優しさ": ["温かい心", "包容力"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ゴールドナゲット.jpeg": {
+    "name": "ゴールドナゲット",
+    "family_ja": "モカラ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "colors yellow gold",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "優雅", "気品"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "コデマリ.jpeg": {
+    "name": "コデマリ",
+    "family_ja": "バラ科",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Rosaceae Spiraea, colors white, small clusters",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "友情": ["友情"],
+      "努力": ["努力"],
+      "美しさ": ["優雅", "上品"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "サザンウィンド.jpeg": {
+    "name": "サザンウィンド",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "成功": ["栄光"],
+      "勇気": ["勇敢"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "サンリッチマンゴー.jpeg": {
+    "name": "サンリッチマンゴー",
+    "family_ja": "キク科",
+    "colors_ja": ["オレンジ", "黄"],
+    "colors_en": ["orange", "yellow"],
+    "prompt": "Asteraceae Helianthus, colors orange yellow mango",
+    "bloom_season": [6, 7, 8, 9],
+    "flower_language": {
+      "尊敬": ["憧れ"],
+      "あなただけを見つめる": ["あなただけを見つめる"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ジェスター.jpeg": {
+    "name": "ジェスター",
+    "family_ja": "スプレーカーネーション",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "純粋": ["素朴"],
+      "愛情": ["熱愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "シャルルダークブルー.jpeg": {
+    "name": "シャルルダークブルー",
+    "family_ja": "",
+    "colors_ja": ["濃い青"],
+    "colors_en": ["dark blue"],
+    "prompt": "colors dark blue",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "清々しい美しさ"],
+      "希望": ["希望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ジュリアスラベンダー.jpeg": {
+    "name": "ジュリアスラベンダー",
+    "family_ja": "トルコキキョウ",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": " ",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["すがすがしい美しさ", "優美"],
+      "希望": ["希望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ジロンド.jpeg": {
+    "name": "ジロンド",
+    "family_ja": "ラナンキュラス",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "魅力": ["華やかな魅力", "とても魅力的"],
+      "合格": ["合格"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スーパーグランブルー.jpeg": {
+    "name": "スーパーグランブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["あなたを幸せにします"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スノーボール.jpeg": {
+    "name": "スノーボール",
+    "family_ja": "スイカズラ科",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Adoxaceae Viburnum, colors white, ball-shaped clusters",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "勇気": ["茶目っ気"],
+      "誓い": ["誓い"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "スパイス.jpeg": {
+    "name": "スパイス",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "煩悩": ["恋に悶える心", "煩悩"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "セレブクリスタル.jpeg": {
+    "name": "セレブクリスタル",
+    "family_ja": "トルコキキョウ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"],
+      "優しさ": ["思いやり"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "セレブグレープ.jpeg": {
+    "name": "セレブグレープ",
+    "family_ja": "",
+    "colors_ja": ["紫", "ぶどう色"],
+    "colors_en": ["purple", "grape"],
+    "prompt": "colors purple grape",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["すがすがしい美しさ", "優美"],
+      "希望": ["希望"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ソーラーパワー.jpeg": {
+    "name": "ソーラーパワー",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [6, 7, 8, 9],
+    "flower_language": {
+      "尊敬": ["憧れ"],
+      "あなただけを見つめる": ["あなただけを見つめる"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ダイヤモンドボルドー.jpeg": {
+    "name": "ダイヤモンドボルドー",
+    "family_ja": "",
+    "colors_ja": ["ボルドー", "赤紫"],
+    "colors_en": ["bordeaux", "burgundy"],
+    "prompt": "colors bordeaux burgundy",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "幸福": ["幸福な愛"],
+      "希望": ["夢"],
+      "愛情": ["愛の誠実"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "タンゴ.jpeg": {
+    "name": "タンゴ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "成功": ["どこでも成功を", "共栄"],
+      "幸福": ["陽気"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "デリーラ.jpeg": {
+    "name": "デリーラ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "尊敬": ["尊敬される人になる"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "トップブルー.jpeg": {
+    "name": "トップブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "",
+    "bloom_season": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+    "flower_language": {
+      "友情": ["信頼"],
+      "平和": ["安泰", "安楽"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "トレンディーテッシノ.jpeg": {
+    "name": "トレンディーテッシノ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["集団美"],
+      "純粋": ["素朴", "純粋な愛情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "トロピカル.jpeg": {
+    "name": "トロピカル",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "tropical",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱"],
+      "煩悩": ["恋に悶える心", "煩悩"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "パームビーチ.jpeg": {
+    "name": "パームビーチ",
+    "family_ja": "大輪ガーベラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望", "常に前進"],
+      "前向き": ["前向き"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "パスティーニシエナ.jpeg": {
+    "name": "パスティーニシエナ",
+    "family_ja": "ガーベラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望", "常に前進"],
+      "前向き": ["前向き"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "パッションミナミ.jpeg": {
+    "name": "パッションミナミ",
+    "family_ja": "カーネーション",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["無垢で深い愛", "純粋な愛"],
+      "愛情": ["女性の愛"],
+      "感動": ["感動"],
+      "美しさ": ["気品", "美しい仕草"],
+      "友情": ["友情"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ハピネスホワイト.jpeg": {
+    "name": "ハピネスホワイト",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "バロック.jpeg": {
+    "name": "バロック",
+    "family_ja": "大輪ガーベラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "希望": ["希望", "前進"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピスカップ.jpeg": {
+    "name": "ピスカップ",
+    "family_ja": "スプレーバラ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "友情": ["友情"],
+      "はげまし": ["はげまし"],
+      "平和": ["平和"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ピッコローサスノー.jpeg": {
+    "name": "ピッコローサスノー",
+    "family_ja": "",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "",
+    "bloom_season": [""],
+    "flower_language": "",
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ビバーナム.jpeg": {
+    "name": "ビバーナム",
+    "family_ja": "スイカズラ科",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Adoxaceae Viburnum, colors white",
+    "bloom_season": [5, 6],
+    "flower_language": {
+      "幸福": ["幸せが飛んでくる", "幸福"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ビンセントポメロ.jpeg": {
+    "name": "ビンセントポメロ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [6, 7, 8],
+    "flower_language": {
+      "あなただけを見つめる": ["あなただけを見つめる"],
+      "尊敬": ["憧れ"],
+      "希望": ["光輝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ファーマディープブルー.jpeg": {
+    "name": "ファーマディープブルー",
+    "family_ja": "",
+    "colors_ja": ["濃い青"],
+    "colors_en": ["deep blue"],
+    "prompt": "colors deep blue",
+    "bloom_season": [5, 6, 7, 8, 9, 10],
+    "flower_language": {
+      "煩悩": ["悲しむ花嫁"],
+      "朝の花嫁": ["朝の花嫁"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ファンタスティックブルー.jpeg": {
+    "name": "ファンタスティックブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue",
+    "bloom_season": [4, 5, 6, 7],
+    "flower_language": {
+      "繊細": ["繊細"],
+      "美しさ": ["優美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "フェスティボ.jpeg": {
+    "name": "フェスティボ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "友情": ["絆", "信頼"],
+      "幸福": ["幸多かれ"],
+      "健やか": ["健やか"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "プライムホワイト.jpeg": {
+    "name": "プライムホワイト",
+    "family_ja": "トルコキキョウ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": " ",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"],
+      "優しさ": ["思いやり"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "プリンセスブルー.jpeg": {
+    "name": "プリンセスブルー",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue",
+    "bloom_season": [4, 5, 6],
+    "flower_language": {
+      "永遠": ["永遠の幸福"],
+      "尊敬": ["尊敬"],
+      "希望": ["夢かなう"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ブルーミルフィーユ.jpeg": {
+    "name": "ブルーミルフィーユ",
+    "family_ja": "",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "colors blue layered",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "高貴": ["尊ぶ"],
+      "愛情": ["精神的な愛"],
+      "平和": ["静けさ"],
+      "献身": ["奉仕"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ペアビューティ.jpeg": {
+    "name": "ペアビューティ",
+    "family_ja": "ダリア",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["気品", "優美", "華麗", "優雅", "栄華"],
+      "不誠実": ["移り気", "裏切り"],
+      "嫉妬": ["不安定"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ベールスター.jpeg": {
+    "name": "ベールスター",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "veil-like star-shaped",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "純粋": ["清らかな心"],
+      "勇気": ["無邪気"],
+      "優しさ": ["親切"],
+      "幸福": ["幸福"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ホワイトベル.jpeg": {
+    "name": "ホワイトベル",
+    "family_ja": "リンドウ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛らしい"],
+      "個性": ["固有の価値"],
+      "煩悩": ["悲しんでいるあなたを愛する"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ポンポンイグルー.jpeg": {
+    "name": "ポンポンイグルー",
+    "family_ja": "ラナンキュラス",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "colors white pompom",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "魅力": ["晴れやかな魅力", "あなたは魅力的"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ポンポンミグノン.jpeg": {
+    "name": "ポンポンミグノン",
+    "family_ja": "ラナンキュラス",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "pompom",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "魅力": ["とても魅力的", "華やかな魅力"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ポンポンメルリーノ.jpeg": {
+    "name": "ポンポンメルリーノ",
+    "family_ja": "ラナンキュラス",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "pompom",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "魅力": ["華やかな魅力", "晴れやかな魅力", "とても魅力的"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マルジャン.jpeg": {
+    "name": "マルジャン",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱"],
+      "完璧": ["あなたは完璧"],
+      "個性": ["個性美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マンゴーリーバー.jpeg": {
+    "name": "マンゴーリーバー",
+    "family_ja": "バラ",
+    "colors_ja": ["オレンジ", "黄"],
+    "colors_en": ["orange", "yellow"],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "勇気": ["無邪気"],
+      "魅力": ["魅惑"],
+      "友情": ["信頼"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "マンボ.jpeg": {
+    "name": "マンボ",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [7],
+    "flower_language": {
+      "純粋": ["純粋", "無垢"],
+      "祝福": ["祝福"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ミステリアスパーロット.jpeg": {
+    "name": "ミステリアスパーロット",
+    "family_ja": "チューリップ",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [12, 1, 2, 3],
+    "flower_language": {
+      "愛情": ["不滅の愛", "真実の愛"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "メディウム.jpeg": {
+    "name": "メディウム",
+    "family_ja": "",
+    "colors_ja": [""],
+    "colors_en": [""],
+    "prompt": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "感謝": ["感謝"],
+      "誠実": ["誠実"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ラベンダーレース.jpeg": {
+    "name": "ラベンダーレース",
+    "family_ja": "",
+    "colors_ja": ["ラベンダー", "紫"],
+    "colors_en": ["lavender", "purple"],
+    "prompt": "colors lavender purple lacy",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["気品", "美"],
+      "高貴": ["誇り"],
+      "尊敬": ["尊敬"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "レッドエナジー.jpeg": {
+    "name": "レッドエナジー",
+    "family_ja": "",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "colors red",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "レッドスター.jpeg": {
+    "name": "レッドスター",
+    "family_ja": "",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "colors red star-shaped",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["熱烈な恋", "愛情", "情熱"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロジーナラベンダー.jpeg": {
+    "name": "ロジーナラベンダー",
+    "family_ja": "リンドウ科",
+    "colors_ja": ["ラベンダー", "紫"],
+    "colors_en": ["lavender", "purple"],
+    "prompt": "Gentianaceae Eustoma, colors lavender purple",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美"],
+      "希望": ["希望"],
+      "愛情": ["永遠の愛"],
+      "感謝": ["感謝"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  },
+  "ロベライエロー.jpeg": {
+    "name": "ロベライエロー",
+    "family_ja": "",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "colors yellow",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["優美", "すがすがしい美しさ"],
+      "優しさ": ["思いやり"]
+    },
+    "price_range": {
+      "min": "",
+      "max": ""
+    },
+    "size": {
+      "height": ""
+    }
+  }
+}
