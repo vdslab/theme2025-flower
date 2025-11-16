@@ -1,11 +1,11 @@
 {
   "ひこ星.jpeg": {
-    "name": "桔梗",
-    "family_ja": "キキョウ科",
-    "colors_ja": ["青", "紫", "白"],
-    "colors_en": ["blue", "purple", "white"],
-    "prompt": "Campanulaceae Platycodon grandiflorus, colors blue purple white, star-shaped bell-shaped",
-    "bloom_season": ["夏", "秋"],
+    "name": "ひこ星",
+    "family_ja": "トルコギキョウ　一重",
+    "colors_ja": ["紫", "白"],
+    "colors_en": ["purple", "white"],
+    "prompt": "Lisianthus (Eustoma) grandiflorum Carmen Blue Rim, colors purple white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": "永遠の愛、誠実",
     "price_range": {
       "min": "",
@@ -17,10 +17,10 @@
   },
   "アルーラ.jpeg": {
     "name": "アルーラ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アルストロメリア",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Alstroemeria Arula, colors purple",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["持続"],
@@ -37,10 +37,10 @@
   },
   "清涼殿.jpeg": {
     "name": "清涼殿",
-    "family_ja": "キク科",
-    "colors_ja": ["白", "黄"],
-    "colors_en": ["white", "yellow"],
-    "prompt": "Asteraceae chrysanthemum, colors white yellow",
+    "family_ja": "アスター",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "China Aster ’Seiryoden’ , colors purple",
     "bloom_season": [9, 10, 11],
     "flower_language": {
       "努力": ["忍耐"],
@@ -57,12 +57,12 @@
     }
   },
   "夕映.jpeg": {
-    "name": "夕映",
-    "family_ja": "キク科",
-    "colors_ja": ["赤", "オレンジ"],
-    "colors_en": ["red", "orange"],
-    "prompt": "Asteraceae chrysanthemum, colors red orange",
-    "bloom_season": ["秋"],
+    "name": "バンカーヒル",
+    "family_ja": "シャクヤク",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Peony Bunker Hill,  colors dark pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": "",
     "price_range": {
       "min": "",
@@ -74,10 +74,10 @@
   },
   "一番星.jpeg": {
     "name": "一番星",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "トルコギキョウ　一重",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Lisianthus (Eustoma) grandiflorum Carmen Blue Rim",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["すがすがしい美しさ", "優美"],
@@ -93,10 +93,10 @@
   },
   "ライラッククラシック.jpeg": {
     "name": "ライラッククラシック",
-    "family_ja": "モクセイ科",
-    "colors_ja": ["紫", "ライラック"],
-    "colors_en": ["purple", "lilac"],
-    "prompt": "Oleaceae Syringa, colors purple lilac",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Rose ’Lilac classic’",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "高貴": ["誇り"],
@@ -113,10 +113,10 @@
   },
   "アクアブルー.jpeg": {
     "name": "アクアブルー",
-    "family_ja": "",
-    "colors_ja": ["青", "水色"],
-    "colors_en": ["blue", "aqua"],
-    "prompt": "colors blue aqua",
+    "family_ja": "スターチス",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "Sea Lavender ’Aqua Blue’",
     "bloom_season": [4, 5, 6],
     "flower_language": {
       "永遠": ["永遠の幸福"],
@@ -133,10 +133,10 @@
   },
   "マリティム.jpeg": {
     "name": "マリティム",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose ’Maritime’",
     "bloom_season": [5, 6, 7, 8, 9, 10, 11],
     "flower_language": {
       "愛情": ["永遠の愛"],
@@ -152,10 +152,10 @@
   },
   "クラリスピンク.jpeg": {
     "name": "クラリスピンク",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
-    "prompt": "Turkish bellflower, double Claris Pink, colors pink",
+    "prompt": "Double Lisianthus 'Claris Pink'",
     "bloom_season": [4, 5, 6, 7, 9, 10],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -170,10 +170,10 @@
   },
   "アライアンス.jpeg": {
     "name": "アライアンス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Gerbera Standard (Large Flower) Alliance (Black Center)'",
+    "family_ja": "ガーベラ　スタンダード（大輪）",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Gerbera 'Alliance'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望", "前進"],
@@ -190,10 +190,10 @@
   },
   "スパークリンググラフィティ.jpeg": {
     "name": "スパークリンググラフィティ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "sparkling pattern",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Rose 'Sparkling Graffiti'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -209,10 +209,10 @@
   },
   "ローズゼラニウム.jpeg": {
     "name": "ローズゼラニウム",
-    "family_ja": "フウロソウ科",
-    "colors_ja": ["ピンク", "赤"],
-    "colors_en": ["pink", "red"],
-    "prompt": "Geranium Rose Geranium, Geraniaceae Pelargonium, colors pink red, rose-scented",
+    "family_ja": "ゼラニウム",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose Geranium",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "選択": ["選択"],
@@ -233,11 +233,11 @@
   },
   "パーティラナンキュラ.jpeg": {
     "name": "パーティラナンキュラ",
-    "family_ja": "キンポウゲ科",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Ranunculaceae Ranunculus",
-    "bloom_season": ["春"],
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Rose 'party ranunculus'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": "とても魅力的",
     "price_range": {
       "min": "",
@@ -249,10 +249,10 @@
   },
   "ノーブルライト.jpeg": {
     "name": "ノーブルライト",
-    "family_ja": "",
-    "colors_ja": ["白", "淡色"],
-    "colors_en": ["white", "light"],
-    "prompt": "colors white light",
+    "family_ja": "スターチス",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Statice 'Noble Light'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["気品", "優美", "華麗"]
@@ -267,12 +267,16 @@
   },
   "バイパーワイン.jpeg": {
     "name": "バイパーワイン",
-    "family_ja": "",
-    "colors_ja": ["ワインレッド", "赤紫"],
-    "colors_en": ["wine", "burgundy"],
-    "prompt": "colors wine burgundy",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Carnation 'Viper Wine'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["貴賓"],
+      "感謝": ["感謝"],
+      "優しさ": ["温かい心"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -283,10 +287,10 @@
   },
   "アリシア.jpeg": {
     "name": "アリシア",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Rose Spray Alicia'",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Rose 'Alicia'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -305,10 +309,10 @@
   },
   "ロジーナブルーピコティ.jpeg": {
     "name": "ロジーナブルーピコティ",
-    "family_ja": "リンドウ科",
-    "colors_ja": ["青", "白"],
-    "colors_en": ["blue", "white"],
-    "prompt": "Gentianaceae Eustoma, colors blue white, picotee edges",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Double Lisianthus 'Rosina Blue Picotee'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["すがすがしい美しさ", "優美"],
@@ -324,12 +328,16 @@
   },
   "チェリオ.jpeg": {
     "name": "チェリオ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Carnation 'Cheerio'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["無垢で深い愛", "女性の愛", "熱愛の告白"],
+      "美しさ": ["美しい仕草"],
+      "感謝": ["感謝"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -340,10 +348,10 @@
   },
   "キャンディータフト.jpeg": {
     "name": "キャンディータフト",
-    "family_ja": "アブラナ科",
-    "colors_ja": ["白", "ピンク", "紫"],
-    "colors_en": ["white", "pink", "purple"],
-    "prompt": "Iberis (candy tuft) Candy tuft (lilac)', Brassicaceae Iberis, colors white pink purple",
+    "family_ja": "イベリス",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Purple Rain Candytuft Seeds",
     "bloom_season": [4, 5, 6],
     "flower_language": {
       "感動": ["心をひきつける"],
@@ -359,9 +367,9 @@
   },
   "アーリエス.jpeg": {
     "name": "アーリエス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Rose Standard Aries (+)'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -379,12 +387,14 @@
   },
   "バイパー.jpeg": {
     "name": "バイパー",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Standard Carnation 'Viper' pale color",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["無垢で深い愛"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -395,10 +405,10 @@
   },
   "恋心.jpeg": {
     "name": "恋心",
-    "family_ja": "",
+    "family_ja": "カーネーション　スプレイ",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
-    "prompt": "Pink Spray Carnation, colors pink",
+    "prompt": "Spray Carnation 'Koigokoro' , light pink",
     "bloom_season": [4, 5, 6, 7, 8, 9, 10],
     "flower_language": {
       "純粋": ["純粋な愛"],
@@ -415,10 +425,10 @@
   },
   "ボヤージュライトアプリコット.jpeg": {
     "name": "ボヤージュライトアプリコット",
-    "family_ja": "",
-    "colors_ja": ["アプリコット", "オレンジ"],
-    "colors_en": ["apricot", "orange"],
-    "prompt": "Turkish tulip, double, Voyage Light Apricot, colors apricot orange light",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Double Lisianthus 'Voyage Light Apricot'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -433,10 +443,10 @@
   },
   "エンジェルヴェール.jpeg": {
     "name": "エンジェルヴェール",
-    "family_ja": "",
-    "colors_ja": ["白"],
-    "colors_en": ["white"],
-    "prompt": "Rose  Standard Angel Veil, colors white veil-like",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Angel Veil'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -453,10 +463,10 @@
   },
   "ブロッサムピンク.jpeg": {
     "name": "ブロッサムピンク",
-    "family_ja": "",
+    "family_ja": "バラ　スタンダード",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
-    "prompt": "Rose Standard Blossom Pink', colors pink blossom",
+    "prompt": "Standard Rose 'Blossom Pink'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -472,10 +482,10 @@
   },
   "ファンシーローラ.jpeg": {
     "name": "ファンシーローラ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Rose Spray Fancy Laura",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Spray Rose 'Fancy Laura'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["純潔"],
@@ -490,12 +500,12 @@
       "height": ""
     }
   },
-  "グラナスライト.jpeg": {
-    "name": "グラナスライト",
-    "family_ja": "",
-    "colors_ja": ["淡色"],
-    "colors_en": ["light"],
-    "prompt": "Turkish bellflower, double, Granas light pink', colors light",
+  "グラナスライトピンク.jpeg": {
+    "name": "グラナスライトピンク",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["ピンク"],
+    "prompt": "Double Lisianthus 'Granas Light Pink'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -508,12 +518,12 @@
       "height": ""
     }
   },
-  "ミヌエット.jpeg": {
-    "name": "ミヌエット",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+  "メヌエット.jpeg": {
+    "name": "メヌエット",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Spray Carnation 'Minuet'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -529,12 +539,15 @@
   },
   "ロサーノシャルロッテダーク.jpeg": {
     "name": "ロサーノシャルロッテダーク",
-    "family_ja": "バラ科",
-    "colors_ja": ["濃いピンク", "赤"],
-    "colors_en": ["dark pink", "red"],
-    "prompt": "Rosaceae Rosa, colors dark pink red",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "キク",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Chrysanthemum 'Rossano Charlotte Dark'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["真心"],
+      "美しさ": ["高潔", "高貴", "貴賓"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -545,10 +558,10 @@
   },
   "マキシマ.jpeg": {
     "name": "マキシマ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Anthurium Maxima",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Anthurium 'Maxima'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["恋にもだえる心"],
@@ -564,12 +577,15 @@
   },
   "アミコ.jpeg": {
     "name": "アミコ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Standard Carnation 'Amico', White with pink flakes",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["純粋な愛"],
+      "尊敬": ["尊敬"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -580,10 +596,10 @@
   },
   "ロイヤルテン.jpeg": {
     "name": "ロイヤルテン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Tulip Lily Flower Royal Ten'",
+    "family_ja": "チューリップ　ユリ咲き",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Lily-flowered Tulip 'Royal Ten'",
     "bloom_season": [12, 1, 2, 3],
     "flower_language": {
       "愛情": ["愛の芽生え", "誠実な愛"]
@@ -598,10 +614,10 @@
   },
   "プリマドンナ.jpeg": {
     "name": "プリマドンナ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Alstroemeria Primadonna'",
+    "family_ja": "アルストロメリア",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Alstroemeria 'Prima Donna'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "幸福": ["幸福"],
@@ -621,10 +637,10 @@
   },
   "ピンクキャンディケーン.jpeg": {
     "name": "ピンクキャンディケーン",
-    "family_ja": "",
-    "colors_ja": ["ピンク", "白"],
-    "colors_en": ["pink", "white"],
-    "prompt": "Curcuma Pink Candy Cane, colors pink white striped",
+    "family_ja": "クルクマ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Curcuma 'Pink Candy Cane'",
     "bloom_season": [9, 10, 11],
     "flower_language": {
       "努力": ["忍耐"],
@@ -642,10 +658,10 @@
   },
   "マルガリータ.jpeg": {
     "name": "マルガリータ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Dahlia Margarita",
+    "family_ja": "ダリア",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Dahlia 'Margarita'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優雅", "気品", "華麗"],
@@ -661,9 +677,9 @@
   },
   "スイートダイヤモンド.jpeg": {
     "name": "スイートダイヤモンド",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "ラン　ファレノプシス",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Ranunculus phalenopsis Sweet Diamond",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -682,7 +698,7 @@
   },
   "エースピンク.jpeg": {
     "name": "エースピンク",
-    "family_ja": "",
+    "family_ja": "バラ　スタンダード",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Rose Standard Ace Pink+', colors pink",
@@ -703,12 +719,15 @@
   },
   "ファルファリーナ.jpeg": {
     "name": "ファルファリーナ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Carnation 'Farfarina'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["無垢で深い愛"],
+      "感謝": ["感謝"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -719,10 +738,10 @@
   },
   "ソルボンヌ.jpeg": {
     "name": "ソルボンヌ",
-    "family_ja": "ユリ科",
-    "colors_ja": ["ピンク", "白"],
-    "colors_en": ["pink", "white"],
-    "prompt": "Yuri Oriental Sorbonne, Liliaceae Lilium, colors pink white",
+    "family_ja": "ユリ　オリエンタル",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Yuri Oriental Sorbonne, Liliaceae Lilium, colors pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["無垢", "純潔", "純粋"],
@@ -740,9 +759,9 @@
   },
   "ソネットフレーズ.jpeg": {
     "name": "ソネットフレーズ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "ナデシコ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Dianthus 'Sonnet Phrase'",
     "bloom_season": [4, 5, 6],
     "flower_language": {
@@ -758,12 +777,12 @@
       "height": ""
     }
   },
-  "ンクレディブル！.jpeg": {
-    "name": "インクレディブル",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Rose Standard Pink Lady Blue!",
+  "ピンクレディブル！.jpeg": {
+    "name": "ピンクレディブル",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Pink Ladybull'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["気品", "上品"],
@@ -779,12 +798,15 @@
   },
   "フィスタ.jpeg": {
     "name": "フィスタ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Fiesta'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["愛"],
+      "美しさ": ["美"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -795,10 +817,10 @@
   },
   "シャララピコ.jpeg": {
     "name": "シャララピコ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Carnation Standard Sharara Pico'",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Carnation 'Sharara Pico', color pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["無垢で深い愛"]
@@ -813,10 +835,10 @@
   },
   "ボヌール.jpeg": {
     "name": "ボヌール",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Rose Standard Bonheur'",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Bonheur' , magenta pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -832,9 +854,9 @@
   },
   "ムーンワルツ.jpeg": {
     "name": "ムーンワルツ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "ダリア",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Dahlia Moon Waltz'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -850,10 +872,10 @@
   },
   "ロジーナピンクピコティ.jpeg": {
     "name": "ロジーナピンクピコティ",
-    "family_ja": "リンドウ科",
-    "colors_ja": ["ピンク", "白"],
-    "colors_en": ["pink", "white"],
-    "prompt": "Turkish bellflower, double, Rosina Pink Picoti, Gentianaceae Eustoma, colors pink white, picotee edges",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Double Lisianthus 'Rosina Pink Picotee'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -868,7 +890,7 @@
   },
   "シャンディピンク.jpeg": {
     "name": "シャンディピンク",
-    "family_ja": "",
+    "family_ja": "スターチス",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Starchis Shandy Pink, colors pink",
@@ -893,10 +915,10 @@
   },
   "セレブクイーン.jpeg": {
     "name": "セレブクイーン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Lisianthus Celeb Queen",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Double Lisianthus 'Celeb Queen'",
     "bloom_season": [6, 7, 8, 9, 10],
     "flower_language": {
       "美しさ": ["優美"],
@@ -914,9 +936,9 @@
   },
   "スーパーセンセーション.jpeg": {
     "name": "スーパーセンセーション",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Rose Spray Super Sensation'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -933,10 +955,10 @@
   },
   "キノシフォン.jpeg": {
     "name": "キノシフォン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Stargazer Lily (Cynanchum auriculatum)",
+    "family_ja": "スターチス宿根",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Limonium sinense 'Kinoshiphon', color pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["変わらぬ心", "永遠に変わらない", "途絶えぬ記憶"],
@@ -955,12 +977,16 @@
   },
   "スプラッシュセンセーション.jpeg": {
     "name": "スプラッシュセンセーション",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "splash pattern",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Rose 'Splash Sensation'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "優しさ": ["温かい心", "包容力"],
+      "感謝": ["感謝"],
+      "美しさ": ["上品"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -971,10 +997,10 @@
   },
   "チェリーテッシノ.jpeg": {
     "name": "チェリーテッシノ",
-    "family_ja": "",
-    "colors_ja": ["赤", "チェリー"],
-    "colors_en": ["red", "cherry"],
-    "prompt": "colors red cherry",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Spray Carnation 'Cherry Tessino'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["あなたを熱愛しています", "愛情"],
@@ -991,9 +1017,9 @@
   },
   "マリポサ.jpeg": {
     "name": "マリポサ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Carnation Standard Mariposa",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -1011,7 +1037,7 @@
   },
   "ピンクラナンキュラ.jpeg": {
     "name": "ピンクラナンキュラ",
-    "family_ja": "キンポウゲ科",
+    "family_ja": "バラ　スタンダード",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Rose Standard Pink Ranunculus', Ranunculaceae Ranunculus, colors pink",
@@ -1032,7 +1058,7 @@
   },
   "ピンクワルツ.jpeg": {
     "name": "ピンクワルツ",
-    "family_ja": "",
+    "family_ja": "バラ　スプレイ",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Spray Rose 'Pink Waltz', colors pink",
@@ -1052,10 +1078,10 @@
   },
   "スカイライン.jpeg": {
     "name": "スカイライン",
-    "family_ja": "",
-    "colors_ja": ["青", "水色"],
-    "colors_en": ["blue", "sky blue"],
-    "prompt": "Carnation Spray Skyline', colors blue sky",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Carnation Spray Skyline', colors pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["無垢で深い愛"]
@@ -1070,11 +1096,11 @@
   },
   "マリーサイモン.jpeg": {
     "name": "マリーサイモン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "枝物",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Marie Simon Ceanothus",
-    "bloom_season": [6, 7, 8],
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "努力": ["努力"],
       "無駄なことはない": ["無駄なことはない"],
@@ -1090,10 +1116,10 @@
   },
   "セレブピンク.jpeg": {
     "name": "セレブピンク",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
-    "prompt": "Turkish tulip, Celeb Pink, colors pink",
+    "prompt": "Double Lisianthus 'Celeb Pink'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -1108,10 +1134,10 @@
   },
   "ソネットハーティ.jpeg": {
     "name": "ソネットハーティ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Dianthus 'Sonnet Hearty'",
+    "family_ja": "ナデシコ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Dianthus 'Sonnet Hearty', color pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["純愛"],
@@ -1127,12 +1153,17 @@
   },
   "ジュミリア.jpeg": {
     "name": "ジュミリア",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["大きな愛"],
+      "誠実": ["誠実"],
+      "感謝": ["感謝"],
+      "優しさ": ["思いやり"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -1143,7 +1174,7 @@
   },
   "ピンクパフェ.jpeg": {
     "name": "ピンクパフェ",
-    "family_ja": "",
+    "family_ja": "アルストロメリア",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Alstroemeria Pink Parfait', colors pink fluffy",
@@ -1160,14 +1191,18 @@
       "height": ""
     }
   },
-  "グズマニア『サブリナ』.jpeg": {
-    "name": "グズマニア サブリナ",
-    "family_ja": "パイナップル科",
-    "colors_ja": ["赤", "黄"],
-    "colors_en": ["red", "yellow"],
-    "prompt": "Bromeliaceae Guzmania, colors red yellow",
-    "bloom_season": [""],
-    "flower_language": "",
+  "サブリナ.jpeg": {
+    "name": "グズマニア",
+    "family_ja": "サブリナ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Guzmania 'Sabrina', colors pink",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["情熱"],
+      "理想の夫婦": ["理想の夫婦"],
+      "幸福": ["いつまでも健康で幸せ"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -1178,9 +1213,9 @@
   },
   "ドンセル.jpeg": {
     "name": "ドンセル",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
     "prompt": "Carnation Standard Donsel",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -1201,10 +1236,10 @@
   },
   "ブレンダ.jpeg": {
     "name": "ブレンダ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Protea 'Brenda'",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Carnation 'Brenda', color pink",
     "bloom_season": [10, 11, 12, 1, 2, 3],
     "flower_language": {
       "自由": ["自由"],
@@ -1222,10 +1257,10 @@
   },
   "ホワイトハート.jpeg": {
     "name": "ホワイトハート",
-    "family_ja": "",
+    "family_ja": "アルストロメリア",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "colors white",
+    "prompt": "Alstroemeria 'White Heart'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "幸福": ["幸福"],
@@ -1241,10 +1276,10 @@
   },
   "彩雪.jpeg": {
     "name": "彩雪",
-    "family_ja": "",
+    "family_ja": "ダリア",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "colors white",
+    "prompt": "Dahlia 'Saisetsu', color white",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優雅", "気品", "華麗"]
@@ -1259,10 +1294,10 @@
   },
   "ティネケ.jpeg": {
     "name": "ティネケ",
-    "family_ja": "クワ科",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Moraceae Ficus, variegated foliage",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Standard Rose 'Tineke'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -1280,10 +1315,10 @@
   },
   "コンスタンタ.jpeg": {
     "name": "コンスタンタ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ユリ　オリエンタル",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Oriental Lily 'Constanta'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "高貴": ["威厳"],
@@ -1299,10 +1334,10 @@
   },
   "アルタイル.jpeg": {
     "name": "アルタイル",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カスミソウ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Gypsophila 'Altair'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["清い心"],
@@ -1320,10 +1355,10 @@
   },
   "ホワイトリリアン.jpeg": {
     "name": "ホワイトリリアン",
-    "family_ja": "ユリ科",
+    "family_ja": "カーネーション　スプレイ",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "Liliaceae Lilium, colors white",
+    "prompt": "Spray Carnation 'White Lilian'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -1342,10 +1377,10 @@
   },
   "コロンホワイト.jpeg": {
     "name": "コロンホワイト",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "colors white",
+    "prompt": "Double Lisianthus 'Colon White'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"],
@@ -1361,10 +1396,10 @@
   },
   "テラカリナ.jpeg": {
     "name": "テラカリナ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ガーベラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Gerbera 'Terra Carina', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望", "前進"]
@@ -1379,10 +1414,10 @@
   },
   "ミッキーマウス.jpeg": {
     "name": "ミッキーマウス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Anthurium 'Mickey Mouse'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["情熱"]
@@ -1397,10 +1432,10 @@
   },
   "カンツォーネ.jpeg": {
     "name": "カンツォーネ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Canzone', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛情", "情熱"]
@@ -1415,10 +1450,10 @@
   },
   "シャラン.jpeg": {
     "name": "シャラン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Anthurium 'Charan', color orange",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "煩悩": ["恋に悶える心", "煩悩"]
@@ -1433,10 +1468,10 @@
   },
   "カリスト.jpeg": {
     "name": "カリスト",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Anthurium 'Calisto'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "煩悩": ["恋に悶える心", "煩悩"],
@@ -1452,10 +1487,10 @@
   },
   "フルフル.jpeg": {
     "name": "フルフル",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Furu Furu', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -1471,10 +1506,10 @@
   },
   "よそおい.jpeg": {
     "name": "よそおい",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Carnation 'Yosooi', color pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -1491,10 +1526,10 @@
   },
   "ラナンキュラ.jpeg": {
     "name": "ラナンキュラス",
-    "family_ja": "キンポウゲ科",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "Ranunculaceae Ranunculus",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Ranunculus', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "魅力": ["華やかな魅力", "とても魅力的"],
@@ -1510,12 +1545,15 @@
   },
   "スリ.jpeg": {
     "name": "スリ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "family_ja": "ガーベラ",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Gerbera 'Suri', color red",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "限りなき挑戦": ["限りなき挑戦"],
+      "前向き": ["前向き"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -1526,10 +1564,10 @@
   },
   "サムライ.jpeg": {
     "name": "サムライ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Samurai', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛情", "情熱"],
@@ -1545,10 +1583,10 @@
   },
   "朝日てまり.jpeg": {
     "name": "朝日てまり",
-    "family_ja": "キク科",
-    "colors_ja": ["黄", "オレンジ"],
-    "colors_en": ["yellow", "orange"],
-    "prompt": "Asteraceae chrysanthemum, colors yellow orange, pompom shaped",
+    "family_ja": "ダリア",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Dahlia 'Asahi Temari', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["華麗"],
@@ -1564,10 +1602,10 @@
   },
   "エロス.jpeg": {
     "name": "エロス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Eros', color red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -1583,10 +1621,10 @@
   },
   "ラララ.jpeg": {
     "name": "ラララ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ダリア",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Dahlia 'LaLaLa'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "感謝": ["感謝"]
@@ -1601,10 +1639,10 @@
   },
   "レモン.jpeg": {
     "name": "レモン",
-    "family_ja": "",
-    "colors_ja": ["黄", "レモン"],
-    "colors_en": ["yellow", "lemon"],
-    "prompt": "colors yellow lemon",
+    "family_ja": "アルストロメリア",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Alstroemeria 'Lemon'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["持続"],
@@ -1625,10 +1663,10 @@
   },
   "エターナルビューティー.jpeg": {
     "name": "エターナルビューティー",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Standard Rose 'Eternal Beauty', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["永遠の愛"],
@@ -1644,10 +1682,10 @@
   },
   "ルミナス.jpeg": {
     "name": "ルミナス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "luminous",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Spray Rose 'Luminus', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "優しさ": ["温かい心", "包容力"]
@@ -1662,9 +1700,9 @@
   },
   "ソラーレ.jpeg": {
     "name": "ソラーレ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
     "prompt": "",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
@@ -1680,11 +1718,11 @@
     }
   },
   "ミメテス.jpeg": {
-    "name": "ミメテス",
-    "family_ja": "ヤマモガシ科",
-    "colors_ja": ["オレンジ", "赤"],
-    "colors_en": ["orange", "red"],
-    "prompt": "Proteaceae Mimetes, colors orange red",
+    "name": "ミメテス　ヒルタス",
+    "family_ja": "ネイティブフラワー",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Mimetes hirtus",
     "bloom_season": [9, 10, 11, 12],
     "flower_language": {
       "個性": ["独創性", "個性"],
@@ -1700,10 +1738,10 @@
   },
   "フェリーク.jpeg": {
     "name": "フェリーク",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Spray Rose 'Felik', color orange",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "優しさ": ["温かい心", "包容力"],
@@ -1721,10 +1759,10 @@
   },
   "シャインオン.jpeg": {
     "name": "シャインオン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "shining",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Shine On'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["光であたりを照らす", "輝き続ける"]
@@ -1739,10 +1777,10 @@
   },
   "タランティーノ.jpeg": {
     "name": "タランティーノ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アルストロメリア",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Alstroemeria 'Tarantino', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["持続"],
@@ -1762,10 +1800,10 @@
   },
   "サンリッチライチ.jpeg": {
     "name": "サンリッチライチ",
-    "family_ja": "キク科",
-    "colors_ja": ["オレンジ", "赤"],
-    "colors_en": ["orange", "red"],
-    "prompt": "Asteraceae Helianthus, colors orange red",
+    "family_ja": "ヒマワリ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Sunflower 'Sunrich Lychee'",
     "bloom_season": [6, 7, 8],
     "flower_language": {
       "あなただけを見つめる": ["あなただけを見つめる"],
@@ -1782,10 +1820,10 @@
   },
   "サレア.jpeg": {
     "name": "サレア",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Carnation 'Sarea'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["無垢で深い愛"]
@@ -1800,10 +1838,10 @@
   },
   "旭.jpeg": {
     "name": "旭",
-    "family_ja": "ひまわり",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "姫ヒマワリ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Heliopsis helianthoides 'Asahi'",
     "bloom_season": [6, 7, 8, 9],
     "flower_language": {
       "尊敬": ["憧れ"],
@@ -1820,10 +1858,10 @@
   },
   "イリオス.jpeg": {
     "name": "イリオス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Standard Rose 'Ilios', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["美"],
@@ -1842,10 +1880,10 @@
   },
   "NFマンゴー.jpeg": {
     "name": "NFマンゴー",
-    "family_ja": "",
-    "colors_ja": ["オレンジ", "黄"],
-    "colors_en": ["orange", "yellow"],
-    "prompt": "colors orange yellow mango",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Double Lisianthus 'NF Mango'",
     "bloom_season": [6, 7, 8, 9],
     "flower_language": {
       "感謝": ["感謝"],
@@ -1863,10 +1901,10 @@
   },
   "アヴニール.jpeg": {
     "name": "アヴニール",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Avenir', color pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["上品"],
@@ -1882,10 +1920,10 @@
   },
   "アマダ.jpeg": {
     "name": "アマダ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Amada+'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["最愛"]
@@ -1898,12 +1936,12 @@
       "height": ""
     }
   },
-  "アルストロメリア ゴールド.jpeg": {
-    "name": "アルストロメリア ゴールド",
-    "family_ja": "ユリズイセン科",
-    "colors_ja": ["黄", "金"],
-    "colors_en": ["yellow", "gold"],
-    "prompt": "Alstroemeriaceae Alstroemeria, colors yellow gold",
+  "ゴールド.jpeg": {
+    "name": "ゴールド",
+    "family_ja": "アルストロメリア",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Alstroemeria 'Gold'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["持続"],
@@ -1920,10 +1958,10 @@
   },
   "イエローシャンプー.jpeg": {
     "name": "イエローシャンプー",
-    "family_ja": "",
+    "family_ja": "ジンジャー",
     "colors_ja": ["黄"],
     "colors_en": ["yellow"],
-    "prompt": "colors yellow",
+    "prompt": "Shampoo Ginger 'Yellow Shampoo'",
     "bloom_season": [7, 8, 9, 10],
     "flower_language": {
       "豊かな心": ["豊かな心"],
@@ -1939,10 +1977,10 @@
   },
   "ヴィクトリアンシークレット.jpeg": {
     "name": "ヴィクトリアンシークレット",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Victorian Secret'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "感謝": ["感謝"],
@@ -1959,10 +1997,10 @@
   },
   "エグゼラべンダー.jpeg": {
     "name": "エグゼラベンダー",
-    "family_ja": "",
-    "colors_ja": ["ラベンダー", "紫"],
-    "colors_en": ["lavender", "purple"],
-    "prompt": "colors lavender purple",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Double Lisianthus 'Exe Lavender'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望"],
@@ -1978,10 +2016,10 @@
   },
   "えくぼ.jpeg": {
     "name": "えくぼ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Spray Carnation 'Ekubo', color orange",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -1998,12 +2036,17 @@
   },
   "エルメスオレンジ.jpeg": {
     "name": "エルメスオレンジ",
-    "family_ja": "",
+    "family_ja": "カーネーション　スタンダード",
     "colors_ja": ["オレンジ"],
     "colors_en": ["orange"],
-    "prompt": "colors orange",
-    "bloom_season": [""],
-    "flower_language": "",
+    "prompt": "Standard Carnation 'Hermes Orange'",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "愛情": ["無垢で深い愛", "女性の愛情", "純粋な愛"],
+      "感動": ["感動"],
+      "美しさ": ["美しい仕草", "気品"],
+      "友情": ["友情"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -2014,10 +2057,10 @@
   },
   "オーロラブルー.jpeg": {
     "name": "オーロラブルー",
-    "family_ja": "",
+    "family_ja": "デルフィニウム",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "colors blue aurora",
+    "prompt": "Delphinium 'Aurora Blue'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["清明"],
@@ -2033,10 +2076,10 @@
   },
   "オレンジウェーブ.jpeg": {
     "name": "オレンジウェーブ",
-    "family_ja": "",
+    "family_ja": "カーネーション　スプレイ",
     "colors_ja": ["オレンジ"],
     "colors_en": ["orange"],
-    "prompt": "colors orange wavy",
+    "prompt": "Spray Carnation 'Orange Wave'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["純粋な愛", "素朴"],
@@ -2053,10 +2096,10 @@
   },
   "オレンジクイーン.jpeg": {
     "name": "オレンジクイーン",
-    "family_ja": "",
+    "family_ja": "アルストロメリア",
     "colors_ja": ["オレンジ"],
     "colors_en": ["orange"],
-    "prompt": "colors orange",
+    "prompt": "Alstroemeria 'Orange Queen'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "おしゃれ": ["おしゃれ"],
@@ -2073,12 +2116,12 @@
       "height": ""
     }
   },
-  "オレンジロマンティカ.jpeg": {
-    "name": "オレンジロマンティカ",
-    "family_ja": "",
+  "オレンジロマンチカ.jpeg": {
+    "name": "オレンジロマンチカ",
+    "family_ja": "バラ　スタンダード",
     "colors_ja": ["オレンジ"],
     "colors_en": ["orange"],
-    "prompt": "colors orange",
+    "prompt": "Standard Rose 'Orange Romantica'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["情熱", "愛"],
@@ -2100,10 +2143,10 @@
   },
   "カルピデューム.jpeg": {
     "name": "カルピデューム",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Carpe Diem+'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["情熱", "愛"],
@@ -2120,10 +2163,10 @@
   },
   "カンパネラホットピンク.jpeg": {
     "name": "カンパネラホットピンク",
-    "family_ja": "キキョウ科",
-    "colors_ja": ["濃いピンク"],
-    "colors_en": ["hot pink"],
-    "prompt": "Campanulaceae Campanula, colors hot pink, bell-shaped",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Campanella Hot Pink'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "感謝": ["感謝"],
@@ -2141,10 +2184,10 @@
   },
   "キャプテンソロ.jpeg": {
     "name": "キャプテンソロ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カラー",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Calla Lily 'Captain Solo'",
     "bloom_season": [4, 5, 6, 7],
     "flower_language": {
       "美しさ": ["華麗なる美"],
@@ -2161,10 +2204,10 @@
   },
   "キャンディタフト.jpeg": {
     "name": "キャンディタフト",
-    "family_ja": "アブラナ科",
-    "colors_ja": ["白", "ピンク", "紫"],
-    "colors_en": ["white", "pink", "purple"],
-    "prompt": "Brassicaceae Iberis, colors white pink purple",
+    "family_ja": "イベリス",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Candytuft 'Lilac'",
     "bloom_season": [4, 5, 6],
     "flower_language": {
       "感動": ["心をひきつける"],
@@ -2184,7 +2227,7 @@
     "family_ja": "スカビオサ",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "colors dark blue",
+    "prompt": "Scabious 'Quiz Dark Blue'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "煩悩": ["私はすべてを失った", "不幸な恋", "叶わぬ恋"],
@@ -2200,10 +2243,10 @@
   },
   "グランオマージュ.jpeg": {
     "name": "グランオマージュ",
-    "family_ja": "バラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Standard Rose 'Grand Hommage'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -2222,10 +2265,10 @@
   },
   "クリームフレグランス.jpeg": {
     "name": "クリームフレグランス",
-    "family_ja": "バラ",
-    "colors_ja": ["クリーム", "白"],
-    "colors_en": ["cream", "white"],
-    "prompt": "colors cream white fragrant",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Standard Rose 'Cream Fragrance'",
     "bloom_season": [5, 6, 7, 8, 9, 10],
     "flower_language": {
       "敬意": ["敬意"],
@@ -2242,10 +2285,10 @@
   },
   "クリストローゼ.jpeg": {
     "name": "クリストローゼ",
-    "family_ja": "バラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Standard Rose 'Christ Rose +' , color dark red",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "永遠": ["永遠の愛"]
@@ -2260,10 +2303,10 @@
   },
   "クレスブルー.jpeg": {
     "name": "クレスブルー",
-    "family_ja": "",
+    "family_ja": "デルフィニウム",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "colors blue",
+    "prompt": "Delphinium 'Cress Blue'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "幸福": ["あなたを幸せにします"]
@@ -2278,10 +2321,10 @@
   },
   "ケンジントンガーデン.jpeg": {
     "name": "ケンジントンガーデン",
-    "family_ja": "バラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Kensington Garden'",
     "bloom_season": [5, 6, 7, 8, 9, 10],
     "flower_language": {
       "美しさ": ["上品", "優美"],
@@ -2297,10 +2340,10 @@
   },
   "ゴールドダスト.jpeg": {
     "name": "ゴールドダスト",
-    "family_ja": "スプレーバラ",
+    "family_ja": "バラ　スプレイ",
     "colors_ja": ["黄"],
     "colors_en": ["yellow"],
-    "prompt": "colors yellow gold",
+    "prompt": "Spray Rose 'Gold Dust' color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -2317,10 +2360,10 @@
   },
   "ゴールドナゲット.jpeg": {
     "name": "ゴールドナゲット",
-    "family_ja": "モカラ",
+    "family_ja": "ラン　モカラ",
     "colors_ja": ["黄"],
     "colors_en": ["yellow"],
-    "prompt": "colors yellow gold",
+    "prompt": "Mokara orchid 'Gold Nugget'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "優雅", "気品"]
@@ -2335,10 +2378,10 @@
   },
   "コデマリ.jpeg": {
     "name": "コデマリ",
-    "family_ja": "バラ科",
+    "family_ja": "枝物",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "Rosaceae Spiraea, colors white, small clusters",
+    "prompt": "Spiraea cantoniensis",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "友情": ["友情"],
@@ -2355,10 +2398,10 @@
   },
   "サザンウィンド.jpeg": {
     "name": "サザンウィンド",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "グロリオサ",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Gloriosa superba 'Southern Wind'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "成功": ["栄光"],
@@ -2374,10 +2417,10 @@
   },
   "サンリッチマンゴー.jpeg": {
     "name": "サンリッチマンゴー",
-    "family_ja": "キク科",
-    "colors_ja": ["オレンジ", "黄"],
-    "colors_en": ["orange", "yellow"],
-    "prompt": "Asteraceae Helianthus, colors orange yellow mango",
+    "family_ja": "ヒマワリ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "helianthus annuus 'sunrich mango'",
     "bloom_season": [6, 7, 8, 9],
     "flower_language": {
       "尊敬": ["憧れ"],
@@ -2393,10 +2436,10 @@
   },
   "ジェスター.jpeg": {
     "name": "ジェスター",
-    "family_ja": "スプレーカーネーション",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Carnation 'Jester'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -2413,10 +2456,10 @@
   },
   "シャルルダークブルー.jpeg": {
     "name": "シャルルダークブルー",
-    "family_ja": "",
-    "colors_ja": ["濃い青"],
-    "colors_en": ["dark blue"],
-    "prompt": "colors dark blue",
+    "family_ja": "トルコギキョウ　一重",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "Single Lisianthus 'Charle Dark Blue'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "清々しい美しさ"],
@@ -2432,10 +2475,10 @@
   },
   "ジュリアスラベンダー.jpeg": {
     "name": "ジュリアスラベンダー",
-    "family_ja": "トルコキキョウ",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["紫"],
     "colors_en": ["purple"],
-    "prompt": " ",
+    "prompt": "Double Lisianthus 'Julius Lavender'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["すがすがしい美しさ", "優美"],
@@ -2452,9 +2495,9 @@
   "ジロンド.jpeg": {
     "name": "ジロンド",
     "family_ja": "ラナンキュラス",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Ranunculus 'Gironde', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "魅力": ["華やかな魅力", "とても魅力的"],
