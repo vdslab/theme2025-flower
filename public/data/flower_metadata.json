@@ -6,7 +6,10 @@
     "colors_en": ["purple", "white"],
     "prompt": "Lisianthus (Eustoma) grandiflorum Carmen Blue Rim, colors purple white",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "flower_language": "永遠の愛、誠実",
+    "flower_language": {
+      "優しさ": ["優しさ", "思いやり"],
+      "希望": ["希望"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -63,7 +66,10 @@
     "colors_en": ["red"],
     "prompt": "Peony Bunker Hill,  colors dark pink",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "flower_language": "",
+    "flower_language": {
+      "謙虚": ["慎ましさ", "はじらい"],
+      "嫉妬": ["憤怒", "怒り"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -238,7 +244,9 @@
     "colors_en": ["pink"],
     "prompt": "Rose 'party ranunculus'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-    "flower_language": "とても魅力的",
+    "flower_language": {
+      "魅力": ["晴れやかな魅力", "とても魅力的"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -2513,10 +2521,10 @@
   },
   "スーパーグランブルー.jpeg": {
     "name": "スーパーグランブルー",
-    "family_ja": "",
+    "family_ja": "デルフィニウム",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "colors blue",
+    "prompt": "Delphinium 'Super Gran Blue'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "幸福": ["あなたを幸せにします"]
@@ -2531,10 +2539,10 @@
   },
   "スノーボール.jpeg": {
     "name": "スノーボール",
-    "family_ja": "スイカズラ科",
+    "family_ja": "枝物　ビバーナム",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "Adoxaceae Viburnum, colors white, ball-shaped clusters",
+    "prompt": "Snowball Viburnum",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "勇気": ["茶目っ気"],
@@ -2550,10 +2558,10 @@
   },
   "スパイス.jpeg": {
     "name": "スパイス",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Anthurium andraeanum 'Spice'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "煩悩": ["恋に悶える心", "煩悩"]
@@ -2568,10 +2576,10 @@
   },
   "セレブクリスタル.jpeg": {
     "name": "セレブクリスタル",
-    "family_ja": "トルコキキョウ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Double Lisianthus 'Celeb Crystal'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"],
@@ -2587,10 +2595,10 @@
   },
   "セレブグレープ.jpeg": {
     "name": "セレブグレープ",
-    "family_ja": "",
-    "colors_ja": ["紫", "ぶどう色"],
-    "colors_en": ["purple", "grape"],
-    "prompt": "colors purple grape",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Double Lisianthus 'Celeb Grape'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["すがすがしい美しさ", "優美"],
@@ -2606,10 +2614,10 @@
   },
   "ソーラーパワー.jpeg": {
     "name": "ソーラーパワー",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ヒマワリ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Sunflower 'Solar Power'",
     "bloom_season": [6, 7, 8, 9],
     "flower_language": {
       "尊敬": ["憧れ"],
@@ -2625,10 +2633,10 @@
   },
   "ダイヤモンドボルドー.jpeg": {
     "name": "ダイヤモンドボルドー",
-    "family_ja": "",
-    "colors_ja": ["ボルドー", "赤紫"],
-    "colors_en": ["bordeaux", "burgundy"],
-    "prompt": "colors bordeaux burgundy",
+    "family_ja": "ブバルディア",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Bouvardia 'Diamond Bordeaux'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "幸福": ["幸福な愛"],
@@ -2645,10 +2653,10 @@
   },
   "タンゴ.jpeg": {
     "name": "タンゴ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ピンクッション",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Leucospermum 'Tango'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "成功": ["どこでも成功を", "共栄"],
@@ -2664,10 +2672,10 @@
   },
   "デリーラ.jpeg": {
     "name": "デリーラ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Standard Rose 'Delilah'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "尊敬": ["尊敬される人になる"]
@@ -2682,10 +2690,10 @@
   },
   "トップブルー.jpeg": {
     "name": "トップブルー",
-    "family_ja": "",
+    "family_ja": "アゲラタム",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "",
+    "prompt": "Ageratum 'Top Blue'",
     "bloom_season": [3, 4, 5, 6, 7, 8, 9, 10, 11],
     "flower_language": {
       "友情": ["信頼"],
@@ -2701,10 +2709,10 @@
   },
   "トレンディーテッシノ.jpeg": {
     "name": "トレンディーテッシノ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スプレイ",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Spray Carnation 'Trendy Tessino'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["集団美"],
@@ -2720,10 +2728,10 @@
   },
   "トロピカル.jpeg": {
     "name": "トロピカル",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "tropical",
+    "family_ja": "アンスリウム",
+    "colors_ja": ["赤"],
+    "colors_en": ["red"],
+    "prompt": "Anthurium 'Tropical'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["情熱"],
@@ -2739,10 +2747,10 @@
   },
   "パームビーチ.jpeg": {
     "name": "パームビーチ",
-    "family_ja": "大輪ガーベラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ガーベラ　スタンダード（大輪）",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Standard Gerbera 'Palm Beach'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望", "常に前進"],
@@ -2759,9 +2767,9 @@
   "パスティーニシエナ.jpeg": {
     "name": "パスティーニシエナ",
     "family_ja": "ガーベラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Gerbera 'Pastini Siena', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望", "常に前進"],
@@ -2777,10 +2785,10 @@
   },
   "パッションミナミ.jpeg": {
     "name": "パッションミナミ",
-    "family_ja": "カーネーション",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Carnation 'Passion Minami'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["無垢で深い愛", "純粋な愛"],
@@ -2799,10 +2807,10 @@
   },
   "ハピネスホワイト.jpeg": {
     "name": "ハピネスホワイト",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "",
+    "prompt": "Double Lisianthus 'Happiness White'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"]
@@ -2817,10 +2825,10 @@
   },
   "バロック.jpeg": {
     "name": "バロック",
-    "family_ja": "大輪ガーベラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ガーベラ　スタンダード（大輪）",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Gerbera 'Baroque', color orange",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "希望": ["希望", "前進"]
@@ -2835,10 +2843,10 @@
   },
   "ピスカップ.jpeg": {
     "name": "ピスカップ",
-    "family_ja": "スプレーバラ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Spray Rose 'Piscup', color yellow",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "友情": ["友情"],
@@ -2855,12 +2863,16 @@
   },
   "ピッコローサスノー.jpeg": {
     "name": "ピッコローサスノー",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "",
-    "bloom_season": [""],
-    "flower_language": "",
+    "prompt": "Double Lisianthus 'Piccolosa Snow', color white",
+    "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "flower_language": {
+      "美しさ": ["すがすがしい美しさ", "優美"],
+      "愛情": ["永遠の愛"],
+      "優しさ": ["思いやり"]
+    },
     "price_range": {
       "min": "",
       "max": ""
@@ -2869,12 +2881,12 @@
       "height": ""
     }
   },
-  "ビバーナム.jpeg": {
-    "name": "ビバーナム",
-    "family_ja": "スイカズラ科",
-    "colors_ja": ["白"],
+  "コンパクタ.jpeg": {
+    "name": "コンパクタ",
+    "family_ja": "枝物　ビバーナム",
+    "colors_ja": ["赤"],
     "colors_en": ["white"],
-    "prompt": "Adoxaceae Viburnum, colors white",
+    "prompt": "Viburnum opulus 'Compactum', color red",
     "bloom_season": [5, 6],
     "flower_language": {
       "幸福": ["幸せが飛んでくる", "幸福"]
@@ -2889,10 +2901,10 @@
   },
   "ビンセントポメロ.jpeg": {
     "name": "ビンセントポメロ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "ヒマワリ",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Sunflower 'Vincent Pomelo'",
     "bloom_season": [6, 7, 8],
     "flower_language": {
       "あなただけを見つめる": ["あなただけを見つめる"],
@@ -2909,10 +2921,10 @@
   },
   "ファーマディープブルー.jpeg": {
     "name": "ファーマディープブルー",
-    "family_ja": "",
-    "colors_ja": ["濃い青"],
-    "colors_en": ["deep blue"],
-    "prompt": "colors deep blue",
+    "family_ja": "スカビオサ",
+    "colors_ja": ["青"],
+    "colors_en": ["blue"],
+    "prompt": "Scabiosa 'Fama Deep Blue'",
     "bloom_season": [5, 6, 7, 8, 9, 10],
     "flower_language": {
       "煩悩": ["悲しむ花嫁"],
@@ -2926,12 +2938,12 @@
       "height": ""
     }
   },
-  "ファンタスティックブルー.jpeg": {
-    "name": "ファンタスティックブルー",
-    "family_ja": "",
+  "ブルーファンタスティック.jpeg": {
+    "name": "ブルーファンタスティック",
+    "family_ja": "ヤグルマギク",
     "colors_ja": ["青"],
     "colors_en": ["blue"],
-    "prompt": "colors blue",
+    "prompt": "Cornflower 'Blue Fantastic'",
     "bloom_season": [4, 5, 6, 7],
     "flower_language": {
       "繊細": ["繊細"],
@@ -2947,10 +2959,10 @@
   },
   "フェスティボ.jpeg": {
     "name": "フェスティボ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Festivo', color orange",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "友情": ["絆", "信頼"],
@@ -2967,10 +2979,10 @@
   },
   "プライムホワイト.jpeg": {
     "name": "プライムホワイト",
-    "family_ja": "トルコキキョウ",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": " ",
+    "prompt": "Double Lisianthus 'Prime White'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"],
@@ -2986,10 +2998,10 @@
   },
   "プリンセスブルー.jpeg": {
     "name": "プリンセスブルー",
-    "family_ja": "",
-    "colors_ja": ["青"],
-    "colors_en": ["blue"],
-    "prompt": "colors blue",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Standard Carnation 'Moondust Princess Blue'",
     "bloom_season": [4, 5, 6],
     "flower_language": {
       "永遠": ["永遠の幸福"],
@@ -3006,10 +3018,10 @@
   },
   "ブルーミルフィーユ.jpeg": {
     "name": "ブルーミルフィーユ",
-    "family_ja": "",
-    "colors_ja": ["青"],
-    "colors_en": ["blue"],
-    "prompt": "colors blue layered",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Standard Rose 'Blue Mille-feuille'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "高貴": ["尊ぶ"],
@@ -3025,12 +3037,12 @@
       "height": ""
     }
   },
-  "ペアビューティ.jpeg": {
-    "name": "ペアビューティ",
+  "ポートライトペアビューティー.jpeg": {
+    "name": "ポートライトペアビューティー",
     "family_ja": "ダリア",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Dahlia 'Port Light Pair Beauty'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["気品", "優美", "華麗", "優雅", "栄華"],
@@ -3047,10 +3059,10 @@
   },
   "ベールスター.jpeg": {
     "name": "ベールスター",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "veil-like star-shaped",
+    "family_ja": "カスミソウ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Baby's Breath 'Veil Star', color white",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "純粋": ["清らかな心"],
@@ -3068,10 +3080,10 @@
   },
   "ホワイトベル.jpeg": {
     "name": "ホワイトベル",
-    "family_ja": "リンドウ",
+    "family_ja": "アルストロメリア",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "",
+    "prompt": "Alstroemeria 'White Bell'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛らしい"],
@@ -3091,7 +3103,7 @@
     "family_ja": "ラナンキュラス",
     "colors_ja": ["白"],
     "colors_en": ["white"],
-    "prompt": "colors white pompom",
+    "prompt": "Ranunculus 'Ponpon Igloo'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "魅力": ["晴れやかな魅力", "あなたは魅力的"]
@@ -3107,9 +3119,9 @@
   "ポンポンミグノン.jpeg": {
     "name": "ポンポンミグノン",
     "family_ja": "ラナンキュラス",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "pompom",
+    "colors_ja": ["ピンク"],
+    "colors_en": ["pink"],
+    "prompt": "Ranunculus 'Ponpon Mignon'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "魅力": ["とても魅力的", "華やかな魅力"]
@@ -3125,9 +3137,9 @@
   "ポンポンメルリーノ.jpeg": {
     "name": "ポンポンメルリーノ",
     "family_ja": "ラナンキュラス",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "pompom",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Ranunculus 'Ponpon Merlino'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "魅力": ["華やかな魅力", "晴れやかな魅力", "とても魅力的"]
@@ -3142,10 +3154,10 @@
   },
   "マルジャン.jpeg": {
     "name": "マルジャン",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "グズマニア",
+    "colors_ja": ["黄"],
+    "colors_en": ["yellow"],
+    "prompt": "Guzmania 'Marjan'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["情熱"],
@@ -3162,10 +3174,10 @@
   },
   "マンゴーリーバー.jpeg": {
     "name": "マンゴーリーバー",
-    "family_ja": "バラ",
-    "colors_ja": ["オレンジ", "黄"],
-    "colors_en": ["orange", "yellow"],
-    "prompt": "",
+    "family_ja": "バラ　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Rose 'Mango Reeva'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "勇気": ["無邪気"],
@@ -3182,10 +3194,10 @@
   },
   "マンボ.jpeg": {
     "name": "マンボ",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "カーネーション　スタンダード",
+    "colors_ja": ["オレンジ"],
+    "colors_en": ["orange"],
+    "prompt": "Standard Carnation 'Mambo'",
     "bloom_season": [7],
     "flower_language": {
       "純粋": ["純粋", "無垢"],
@@ -3201,10 +3213,10 @@
   },
   "ミステリアスパーロット.jpeg": {
     "name": "ミステリアスパーロット",
-    "family_ja": "チューリップ",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+    "family_ja": "チューリップ　パーロット",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Parrot Tulip 'Mysterious Parrot'",
     "bloom_season": [12, 1, 2, 3],
     "flower_language": {
       "愛情": ["不滅の愛", "真実の愛"]
@@ -3217,12 +3229,12 @@
       "height": ""
     }
   },
-  "メディウム.jpeg": {
-    "name": "メディウム",
-    "family_ja": "",
-    "colors_ja": [""],
-    "colors_en": [""],
-    "prompt": "",
+  "メディウムホワイト.jpeg": {
+    "name": "メディウムホワイト",
+    "family_ja": "カンパニュラ",
+    "colors_ja": ["白"],
+    "colors_en": ["white"],
+    "prompt": "Campanula 'Medium White'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "感謝": ["感謝"],
@@ -3238,10 +3250,10 @@
   },
   "ラベンダーレース.jpeg": {
     "name": "ラベンダーレース",
-    "family_ja": "",
-    "colors_ja": ["ラベンダー", "紫"],
-    "colors_en": ["lavender", "purple"],
-    "prompt": "colors lavender purple lacy",
+    "family_ja": "バラ　スプレイ",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Spray Rose 'Lavender Lace'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -3259,10 +3271,10 @@
   },
   "レッドエナジー.jpeg": {
     "name": "レッドエナジー",
-    "family_ja": "",
+    "family_ja": "バラ　スプレイ",
     "colors_ja": ["赤"],
     "colors_en": ["red"],
-    "prompt": "colors red",
+    "prompt": "Spray Rose 'Red Energy'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["愛"],
@@ -3278,10 +3290,10 @@
   },
   "レッドスター.jpeg": {
     "name": "レッドスター",
-    "family_ja": "",
+    "family_ja": "ダリア",
     "colors_ja": ["赤"],
     "colors_en": ["red"],
-    "prompt": "colors red star-shaped",
+    "prompt": "Dahlia 'Red Star'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "愛情": ["熱烈な恋", "愛情", "情熱"]
@@ -3296,10 +3308,10 @@
   },
   "ロジーナラベンダー.jpeg": {
     "name": "ロジーナラベンダー",
-    "family_ja": "リンドウ科",
-    "colors_ja": ["ラベンダー", "紫"],
-    "colors_en": ["lavender", "purple"],
-    "prompt": "Gentianaceae Eustoma, colors lavender purple",
+    "family_ja": "トルコギキョウ　八重",
+    "colors_ja": ["紫"],
+    "colors_en": ["purple"],
+    "prompt": "Double Lisianthus 'Rosina Lavender'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美"],
@@ -3317,10 +3329,10 @@
   },
   "ロベライエロー.jpeg": {
     "name": "ロベライエロー",
-    "family_ja": "",
+    "family_ja": "トルコギキョウ　八重",
     "colors_ja": ["黄"],
     "colors_en": ["yellow"],
-    "prompt": "colors yellow",
+    "prompt": "Double Lisianthus 'Robelai Yellow'",
     "bloom_season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "flower_language": {
       "美しさ": ["優美", "すがすがしい美しさ"],
