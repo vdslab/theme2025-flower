@@ -18,8 +18,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#833FD3",
+      "rgb": [131, 63, 211]
     },
     "events": []
   },
@@ -43,8 +43,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#B37AC1",
+      "rgb": [179, 122, 193]
     },
     "events": []
   },
@@ -69,13 +69,13 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A484C7",
+      "rgb": [164, 132, 199]
     },
     "events": []
   },
   "夕映.jpeg": {
-    "name": "バンカーヒル",
+    "name": "夕映",
     "family_ja": "シャクヤク",
     "colors_ja": ["赤"],
     "colors_en": ["red"],
@@ -93,8 +93,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D93280",
+      "rgb": [217, 50, 128]
     },
     "events": []
   },
@@ -117,8 +117,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#5C3084",
+      "rgb": [92, 48, 132]
     },
     "events": []
   },
@@ -142,8 +142,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#ECCDDC",
+      "rgb": [236, 205, 220]
     },
     "events": []
   },
@@ -167,8 +167,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C09FCE",
+      "rgb": [192, 159, 206]
     },
     "events": []
   },
@@ -191,8 +191,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D876B3",
+      "rgb": [216, 118, 179]
     },
     "events": []
   },
@@ -214,8 +214,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EAD9E1",
+      "rgb": [234, 217, 225]
     },
     "events": []
   },
@@ -239,8 +239,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F5DAC9",
+      "rgb": [245, 218, 201]
     },
     "events": []
   },
@@ -263,8 +263,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#AE465D",
+      "rgb": [174, 70, 93]
     },
     "events": []
   },
@@ -292,8 +292,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D6B8CD",
+      "rgb": [214, 184, 205]
     },
     "events": []
   },
@@ -315,8 +315,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D95A6A",
+      "rgb": [217, 90, 106]
     },
     "events": []
   },
@@ -338,8 +338,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#582E71",
+      "rgb": [88, 46, 113]
     },
     "events": []
   },
@@ -363,8 +363,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#993f64",
+      "rgb": [153, 63, 100]
     },
     "events": []
   },
@@ -390,8 +390,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EB57AF",
+      "rgb": [235, 87, 175]
     },
     "events": []
   },
@@ -414,8 +414,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8953BF",
+      "rgb": [137, 83, 191]
     },
     "events": []
   },
@@ -439,8 +439,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#bb5367",
+      "rgb": [187, 83, 103]
     },
     "events": []
   },
@@ -463,8 +463,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8444B9",
+      "rgb": [132, 68, 185]
     },
     "events": []
   },
@@ -488,8 +488,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DC6E73",
+      "rgb": [220, 110, 115]
     },
     "events": []
   },
@@ -511,8 +511,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F4DED4",
+      "rgb": [244, 222, 212]
     },
     "events": []
   },
@@ -536,8 +536,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D6697A",
+      "rgb": [214, 105, 122]
     },
     "events": []
   },
@@ -559,8 +559,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E8D9DB",
+      "rgb": [232, 217, 219]
     },
     "events": []
   },
@@ -584,8 +584,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E6A5B2",
+      "rgb": [230, 165, 178]
     },
     "events": []
   },
@@ -608,8 +608,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E385A0",
+      "rgb": [227, 133, 160]
     },
     "events": []
   },
@@ -633,8 +633,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2D9C5",
+      "rgb": [242, 217, 197]
     },
     "events": []
   },
@@ -656,8 +656,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E5DDDE",
+      "rgb": [229, 221, 222]
     },
     "events": []
   },
@@ -680,8 +680,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D42D2B",
+      "rgb": [212, 45, 43]
     },
     "events": []
   },
@@ -704,8 +704,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#AE5697",
+      "rgb": [174, 86, 151]
     },
     "events": []
   },
@@ -728,8 +728,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E0C1BF",
+      "rgb": [224, 193, 191]
     },
     "events": []
   },
@@ -752,8 +752,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2D8CE",
+      "rgb": [242, 216, 206]
     },
     "events": []
   },
@@ -775,8 +775,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F19FB9",
+      "rgb": [241, 159, 185]
     },
     "events": []
   },
@@ -803,8 +803,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E7B2C7",
+      "rgb": [231, 178, 199]
     },
     "events": []
   },
@@ -829,8 +829,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#B795B9",
+      "rgb": [183, 149, 185]
     },
     "events": []
   },
@@ -853,8 +853,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E4ACD3",
+      "rgb": [228, 172, 211]
     },
     "events": []
   },
@@ -879,8 +879,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D9529E",
+      "rgb": [217, 82, 158]
     },
     "events": []
   },
@@ -905,8 +905,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E55B64",
+      "rgb": [229, 91, 100]
     },
     "events": []
   },
@@ -929,8 +929,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CF5A59",
+      "rgb": [207, 90, 89]
     },
     "events": []
   },
@@ -955,8 +955,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EF90CD",
+      "rgb": [239, 144, 205]
     },
     "events": []
   },
@@ -980,8 +980,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#BC3960",
+      "rgb": [188, 57, 96]
     },
     "events": []
   },
@@ -1004,8 +1004,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E969AB",
+      "rgb": [233, 105, 171]
     },
     "events": []
   },
@@ -1028,8 +1028,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E5BFBC",
+      "rgb": [229, 191, 188]
     },
     "events": []
   },
@@ -1051,8 +1051,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F7DDF5",
+      "rgb": [247, 221, 245]
     },
     "events": []
   },
@@ -1075,8 +1075,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E23C7D",
+      "rgb": [226, 60, 125]
     },
     "events": []
   },
@@ -1098,8 +1098,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F0A8C1",
+      "rgb": [240, 168, 193]
     },
     "events": []
   },
@@ -1121,8 +1121,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DE99BF",
+      "rgb": [222, 153, 191]
     },
     "events": []
   },
@@ -1151,8 +1151,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D1B6DD",
+      "rgb": [209, 182, 221]
     },
     "events": []
   },
@@ -1177,8 +1177,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CC96A5",
+      "rgb": [204, 150, 165]
     },
     "events": []
   },
@@ -1201,8 +1201,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EFA0D0",
+      "rgb": [239, 160, 208]
     },
     "events": []
   },
@@ -1228,8 +1228,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E4A3D0",
+      "rgb": [228, 163, 208]
     },
     "events": []
   },
@@ -1253,8 +1253,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D65A8C",
+      "rgb": [214, 90, 140]
     },
     "events": []
   },
@@ -1278,8 +1278,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#BC275C",
+      "rgb": [188, 39, 92]
     },
     "events": []
   },
@@ -1303,8 +1303,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D7B0B8",
+      "rgb": [215, 176, 184]
     },
     "events": []
   },
@@ -1329,8 +1329,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D4605E",
+      "rgb": [212, 96, 94]
     },
     "events": []
   },
@@ -1354,8 +1354,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2B2BE",
+      "rgb": [242, 178, 190]
     },
     "events": []
   },
@@ -1377,8 +1377,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EF8FBA",
+      "rgb": [239, 143, 186]
     },
     "events": []
   },
@@ -1402,8 +1402,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DAC1D1",
+      "rgb": [218, 193, 209]
     },
     "events": []
   },
@@ -1425,8 +1425,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DBB7C3",
+      "rgb": [219, 183, 195]
     },
     "events": []
   },
@@ -1449,8 +1449,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E5BFEF",
+      "rgb": [229, 191, 239]
     },
     "events": []
   },
@@ -1475,8 +1475,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EE95B3",
+      "rgb": [238, 149, 179]
     },
     "events": []
   },
@@ -1499,14 +1499,14 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DFAACB",
+      "rgb": [223, 170, 203]
     },
     "events": []
   },
   "サブリナ.jpeg": {
-    "name": "グズマニア",
-    "family_ja": "サブリナ",
+    "name": "サブリナ",
+    "family_ja": "グズマニア",
     "colors_ja": ["ピンク"],
     "colors_en": ["pink"],
     "prompt": "Guzmania 'Sabrina', colors pink",
@@ -1524,8 +1524,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#994969",
+      "rgb": [153, 73, 105]
     },
     "events": []
   },
@@ -1552,8 +1552,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F3CAC9",
+      "rgb": [243, 202, 201]
     },
     "events": []
   },
@@ -1578,8 +1578,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#c38082",
+      "rgb": [195, 128, 130]
     },
     "events": []
   },
@@ -1602,8 +1602,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E9E7E3",
+      "rgb": [233, 231, 227]
     },
     "events": []
   },
@@ -1625,8 +1625,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F3F6F7",
+      "rgb": [243, 246, 247]
     },
     "events": []
   },
@@ -1651,8 +1651,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F3F3EB",
+      "rgb": [243, 243, 235]
     },
     "events": []
   },
@@ -1675,8 +1675,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E6E7DA",
+      "rgb": [230, 231, 218]
     },
     "events": []
   },
@@ -1701,8 +1701,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DBDEDF",
+      "rgb": [219, 222, 223]
     },
     "events": []
   },
@@ -1728,8 +1728,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F5F2E7",
+      "rgb": [245, 242, 231]
     },
     "events": []
   },
@@ -1752,8 +1752,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E0E3E7",
+      "rgb": [224, 227, 231]
     },
     "events": []
   },
@@ -1775,8 +1775,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DB3035",
+      "rgb": [219, 48, 53]
     },
     "events": []
   },
@@ -1798,8 +1798,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C8392E",
+      "rgb": [200, 57, 46]
     },
     "events": []
   },
@@ -1821,8 +1821,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#831A13",
+      "rgb": [131, 26, 19]
     },
     "events": []
   },
@@ -1844,8 +1844,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#e55738",
+      "rgb": [229, 87, 56]
     },
     "events": []
   },
@@ -1868,8 +1868,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D62F2D",
+      "rgb": [214, 47, 45]
     },
     "events": []
   },
@@ -1892,8 +1892,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A42120",
+      "rgb": [164, 33, 32]
     },
     "events": []
   },
@@ -1917,13 +1917,13 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#c7626a",
+      "rgb": [199, 98, 106]
     },
     "events": []
   },
   "ラナンキュラ.jpeg": {
-    "name": "ラナンキュラス",
+    "name": "ラナンキュラ",
     "family_ja": "バラ　スタンダード",
     "colors_ja": ["赤"],
     "colors_en": ["red"],
@@ -1941,8 +1941,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#BE4853",
+      "rgb": [190, 72, 83]
     },
     "events": []
   },
@@ -1965,8 +1965,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CD2C34",
+      "rgb": [205, 44, 52]
     },
     "events": []
   },
@@ -1989,8 +1989,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A92231",
+      "rgb": [169, 34, 49]
     },
     "events": []
   },
@@ -2013,8 +2013,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8A1A24",
+      "rgb": [138, 26, 36]
     },
     "events": []
   },
@@ -2037,8 +2037,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#892325",
+      "rgb": [137, 35, 37]
     },
     "events": []
   },
@@ -2060,8 +2060,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E7545B",
+      "rgb": [231, 84, 91]
     },
     "events": []
   },
@@ -2089,8 +2089,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E2DB6D",
+      "rgb": [226, 219, 109]
     },
     "events": []
   },
@@ -2113,8 +2113,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2EFCB",
+      "rgb": [242, 239, 203]
     },
     "events": []
   },
@@ -2136,8 +2136,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F7D247",
+      "rgb": [247, 210, 71]
     },
     "events": []
   },
@@ -2160,8 +2160,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F4D366",
+      "rgb": [244, 211, 102]
     },
     "events": []
   },
@@ -2184,8 +2184,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D3B43D",
+      "rgb": [211, 180, 61]
     },
     "events": []
   },
@@ -2210,8 +2210,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#ED9540",
+      "rgb": [237, 149, 64]
     },
     "events": []
   },
@@ -2233,8 +2233,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F0906B",
+      "rgb": [240, 144, 107]
     },
     "events": []
   },
@@ -2261,8 +2261,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F4EEC9",
+      "rgb": [244, 238, 201]
     },
     "events": []
   },
@@ -2286,8 +2286,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E9CA69",
+      "rgb": [233, 202, 105]
     },
     "events": []
   },
@@ -2309,8 +2309,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D85957",
+      "rgb": [216, 89, 87]
     },
     "events": []
   },
@@ -2334,8 +2334,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F4C042",
+      "rgb": [244, 192, 66]
     },
     "events": []
   },
@@ -2361,8 +2361,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F3EC93",
+      "rgb": [243, 236, 147]
     },
     "events": []
   },
@@ -2387,8 +2387,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EAD2BB",
+      "rgb": [234, 210, 187]
     },
     "events": []
   },
@@ -2411,8 +2411,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DA95B7",
+      "rgb": [218, 149, 183]
     },
     "events": []
   },
@@ -2434,8 +2434,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8E1E20",
+      "rgb": [142, 30, 32]
     },
     "events": []
   },
@@ -2459,8 +2459,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F7D949",
+      "rgb": [247, 217, 73]
     },
     "events": []
   },
@@ -2483,8 +2483,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E6D75B",
+      "rgb": [230, 215, 91]
     },
     "events": []
   },
@@ -2508,8 +2508,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DC7888",
+      "rgb": [220, 120, 136]
     },
     "events": []
   },
@@ -2532,8 +2532,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C69BD7",
+      "rgb": [198, 155, 215]
     },
     "events": []
   },
@@ -2557,8 +2557,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F0AB7D",
+      "rgb": [240, 171, 125]
     },
     "events": []
   },
@@ -2583,8 +2583,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#ED8C61",
+      "rgb": [237, 140, 97]
     },
     "events": []
   },
@@ -2607,8 +2607,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#7d69b0",
+      "rgb": [125, 105, 176]
     },
     "events": []
   },
@@ -2632,8 +2632,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F0936D",
+      "rgb": [240, 147, 109]
     },
     "events": []
   },
@@ -2659,8 +2659,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#BA6025",
+      "rgb": [186, 96, 37]
     },
     "events": []
   },
@@ -2689,8 +2689,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E1782F",
+      "rgb": [225, 120, 47]
     },
     "events": []
   },
@@ -2714,8 +2714,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EF9437",
+      "rgb": [239, 148, 55]
     },
     "events": []
   },
@@ -2740,8 +2740,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#622e25",
+      "rgb": [98, 46, 37]
     },
     "events": []
   },
@@ -2765,33 +2765,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
-    },
-    "events": []
-  },
-  "キャンディタフト.jpeg": {
-    "name": "キャンディタフト",
-    "family_ja": "イベリス",
-    "colors_ja": ["紫"],
-    "colors_en": ["purple"],
-    "prompt": "Candytuft 'Lilac'",
-    "bloom_season": [4, 5, 6],
-    "flower_language": {
-      "感動": ["心をひきつける"],
-      "愛情": ["初恋の思い出"],
-      "初恋": ["甘い誘惑"]
-    },
-    "price_range": {
-      "min": "",
-      "max": ""
-    },
-    "size": {
-      "height": ""
-    },
-    "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EBC642",
+      "rgb": [235, 198, 66]
     },
     "events": []
   },
@@ -2814,8 +2789,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8f7cad",
+      "rgb": [143, 124, 173]
     },
     "events": []
   },
@@ -2841,8 +2816,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F8F5EE",
+      "rgb": [248, 245, 238]
     },
     "events": []
   },
@@ -2866,8 +2841,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EBE7E2",
+      "rgb": [235, 231, 226]
     },
     "events": []
   },
@@ -2889,8 +2864,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A32E4A",
+      "rgb": [163, 46, 74]
     },
     "events": []
   },
@@ -2912,8 +2887,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#1638C5",
+      "rgb": [22, 56, 197]
     },
     "events": []
   },
@@ -2936,8 +2911,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EC713B",
+      "rgb": [236, 113, 59]
     },
     "events": []
   },
@@ -2961,8 +2936,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F9E358",
+      "rgb": [249, 227, 88]
     },
     "events": []
   },
@@ -2984,8 +2959,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#e1933b",
+      "rgb": [225, 147, 59]
     },
     "events": []
   },
@@ -3009,8 +2984,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DEE0D7",
+      "rgb": [222, 224, 215]
     },
     "events": []
   },
@@ -3033,8 +3008,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A4212B",
+      "rgb": [164, 33, 43]
     },
     "events": []
   },
@@ -3057,8 +3032,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F5C257",
+      "rgb": [245, 194, 87]
     },
     "events": []
   },
@@ -3082,8 +3057,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CD3056",
+      "rgb": [205, 48, 86]
     },
     "events": []
   },
@@ -3106,8 +3081,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#7350CD",
+      "rgb": [115, 80, 205]
     },
     "events": []
   },
@@ -3130,8 +3105,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CBB5D7",
+      "rgb": [203, 181, 215]
     },
     "events": []
   },
@@ -3154,8 +3129,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F7CB45",
+      "rgb": [247, 203, 69]
     },
     "events": []
   },
@@ -3177,8 +3152,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#4F7AE0",
+      "rgb": [79, 122, 224]
     },
     "events": []
   },
@@ -3201,8 +3176,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CCDA92",
+      "rgb": [204, 218, 146]
     },
     "events": []
   },
@@ -3224,8 +3199,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#c2293b",
+      "rgb": [194, 41, 59]
     },
     "events": []
   },
@@ -3248,8 +3223,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#EEEEEE",
+      "rgb": [238, 238, 238]
     },
     "events": []
   },
@@ -3272,8 +3247,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C4AAE3",
+      "rgb": [196, 170, 227]
     },
     "events": []
   },
@@ -3296,8 +3271,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DEC942",
+      "rgb": [222, 201, 66]
     },
     "events": []
   },
@@ -3321,8 +3296,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D03D38",
+      "rgb": [208, 61, 56]
     },
     "events": []
   },
@@ -3345,8 +3320,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#BA3C1F",
+      "rgb": [186, 60, 31]
     },
     "events": []
   },
@@ -3368,8 +3343,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C75C97",
+      "rgb": [199, 92, 151]
     },
     "events": []
   },
@@ -3392,8 +3367,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#986ECF",
+      "rgb": [152, 110, 207]
     },
     "events": []
   },
@@ -3416,8 +3391,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#C151B0",
+      "rgb": [193, 81, 176]
     },
     "events": []
   },
@@ -3440,8 +3415,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#bd2840",
+      "rgb": [189, 40, 64]
     },
     "events": []
   },
@@ -3464,8 +3439,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#e5bb08",
+      "rgb": [229, 187, 8]
     },
     "events": []
   },
@@ -3488,8 +3463,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#d6b020",
+      "rgb": [214, 176, 32]
     },
     "events": []
   },
@@ -3515,8 +3490,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#E591A1",
+      "rgb": [229, 145, 161]
     },
     "events": []
   },
@@ -3538,8 +3513,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#697e61",
+      "rgb": [105, 126, 97]
     },
     "events": []
   },
@@ -3561,8 +3536,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#d94908",
+      "rgb": [217, 73, 8]
     },
     "events": []
   },
@@ -3586,8 +3561,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#FBF1BD",
+      "rgb": [251, 241, 189]
     },
     "events": []
   },
@@ -3611,8 +3586,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F8F6EC",
+      "rgb": [248, 246, 236]
     },
     "events": []
   },
@@ -3634,8 +3609,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A14722",
+      "rgb": [161, 71, 34]
     },
     "events": []
   },
@@ -3659,8 +3634,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2D84A",
+      "rgb": [242, 216, 74]
     },
     "events": []
   },
@@ -3683,8 +3658,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#6156A0",
+      "rgb": [97, 86, 160]
     },
     "events": []
   },
@@ -3707,8 +3682,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#888BDE",
+      "rgb": [136, 139, 222]
     },
     "events": []
   },
@@ -3732,8 +3707,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F0B066",
+      "rgb": [240, 176, 102]
     },
     "events": []
   },
@@ -3756,8 +3731,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DFDFDE",
+      "rgb": [223, 223, 222]
     },
     "events": []
   },
@@ -3781,8 +3756,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#7C2D8B",
+      "rgb": [124, 45, 139]
     },
     "events": []
   },
@@ -3807,8 +3782,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CD91AE",
+      "rgb": [205, 145, 174]
     },
     "events": []
   },
@@ -3832,8 +3807,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2AD5A",
+      "rgb": [242, 173, 90]
     },
     "events": []
   },
@@ -3858,8 +3833,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DEE0E4",
+      "rgb": [222, 224, 228]
     },
     "events": []
   },
@@ -3883,8 +3858,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D8D4D1",
+      "rgb": [216, 212, 209]
     },
     "events": []
   },
@@ -3906,8 +3881,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CFD5C7",
+      "rgb": [207, 213, 199]
     },
     "events": []
   },
@@ -3929,8 +3904,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DBBBC8",
+      "rgb": [219, 187, 200]
     },
     "events": []
   },
@@ -3952,8 +3927,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2AC3C",
+      "rgb": [242, 172, 60]
     },
     "events": []
   },
@@ -3977,8 +3952,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DDC240",
+      "rgb": [221, 194, 64]
     },
     "events": []
   },
@@ -4002,8 +3977,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F2AC3D",
+      "rgb": [242, 172, 61]
     },
     "events": []
   },
@@ -4026,8 +4001,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#AF302F",
+      "rgb": [175, 48, 47]
     },
     "events": []
   },
@@ -4049,8 +4024,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#91547C",
+      "rgb": [145, 84, 124]
     },
     "events": []
   },
@@ -4073,8 +4048,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#F4F2F3",
+      "rgb": [244, 242, 243]
     },
     "events": []
   },
@@ -4099,8 +4074,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#CD9FC3",
+      "rgb": [205, 159, 195]
     },
     "events": []
   },
@@ -4123,8 +4098,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#A4271E",
+      "rgb": [164, 39, 30]
     },
     "events": []
   },
@@ -4146,8 +4121,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#8A1A1C",
+      "rgb": [138, 26, 28]
     },
     "events": []
   },
@@ -4172,8 +4147,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#DACCE0",
+      "rgb": [218, 204, 224]
     },
     "events": []
   },
@@ -4196,8 +4171,8 @@
       "height": ""
     },
     "main_color": {
-      "hex": "",
-      "rgb": []
+      "hex": "#D9D280",
+      "rgb": [217, 210, 128]
     },
     "events": []
   }
