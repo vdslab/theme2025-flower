@@ -9,6 +9,7 @@ const Sanpu = ({
   onNodeClick,
   onNodesSelect,
   selectedNodes,
+  colorMatchedNodes,
 }) => {
   const [bunsanData, setBunsanData] = useState([]);
   const size = 65;
@@ -122,8 +123,23 @@ const Sanpu = ({
             (node) => node.filename === d.filename
           );
 
+          const colorMatch = colorMatchedNodes.find(
+            (node) => node.filename === d.filename
+          );
+          const isDimmed = colorMatchedNodes.length > 0 && !colorMatch;
+
           return (
             <g key={i}>
+              {colorMatch && (
+                <circle
+                  cx={d.x}
+                  cy={d.y}
+                  r={size / 2 + 5}
+                  fill="none"
+                  stroke={colorMatch.hex}
+                  strokeWidth="4"
+                />
+              )}
               {isSelected && (
                 <circle
                   cx={d.x}
@@ -144,6 +160,7 @@ const Sanpu = ({
                 style={{
                   cursor: "pointer",
                   clipPath: "circle(50%)",
+                  opacity: isDimmed ? 0.2 : 1,
                 }}
                 onClick={() => {
                   console.log(d.filename);

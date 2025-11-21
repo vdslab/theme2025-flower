@@ -7,6 +7,7 @@ const ColorViz = ({
   onNodesSelect,
   hasSidebar,
   selectedNodes,
+  colorMatchedNodes,
 }) => {
   const [windowSize, setWindowSize] = useState({
     width: window.innerWidth,
@@ -34,6 +35,7 @@ const ColorViz = ({
         onNodeClick={onNodeClick}
         onNodesSelect={onNodesSelect}
         selectedNodes={selectedNodes}
+        colorMatchedNodes={colorMatchedNodes}
       />
     </section>
   );
