@@ -23,7 +23,7 @@ const Sanpu = ({
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch("/data/umap1_flower.json");
+        const res = await fetch("/data/umap2_flower.json");
         const data = await res.json();
         console.log(data);
         setBunsanData(data);
