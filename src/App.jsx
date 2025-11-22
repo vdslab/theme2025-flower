@@ -91,14 +91,13 @@ function App() {
 
   return (
     <div className="h-screen flex flex-col overflow-hidden">
-      <Header onColorSearchClick={() => setIsColorSearchOpen(true)} />
-      {isColorSearchOpen && (
-        <ColorSearch
-          onClose={() => setIsColorSearchOpen(false)}
-          onColorSelect={handleColorSearch}
-          onClearSearch={handleClearSearch}
-        />
-      )}
+      <Header
+        onColorSearchClick={() => setIsColorSearchOpen(true)}
+        isColorSearchOpen={isColorSearchOpen}
+        onColorSearchClose={() => setIsColorSearchOpen(false)}
+        onColorSelect={handleColorSearch}
+        onClearSearch={handleClearSearch}
+      />
       <main className="flex-1 flex relative overflow-hidden">
         <ColorViz
           onNodeClick={setSelectedData}
@@ -129,13 +128,15 @@ function App() {
                 flowerMetadata={flowerMetadata}
               />
             </div>
-            <div className="md:hidden fixed bottom-20 left-0 right-0 top-20 z-20 px-4">
-              <ExpandableDetail
-                data={selectedData}
-                onClose={() => setSelectedData(null)}
-                isMobile={true}
-                flowerMetadata={flowerMetadata}
-              />
+            <div className="md:hidden fixed bottom-20 left-0 right-0 top-20 z-20 px-4 pointer-events-none">
+              <div className="pointer-events-auto">
+                <ExpandableDetail
+                  data={selectedData}
+                  onClose={() => setSelectedData(null)}
+                  isMobile={true}
+                  flowerMetadata={flowerMetadata}
+                />
+              </div>
             </div>
           </>
         )}

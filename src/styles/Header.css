@@ -1,16 +1,5 @@
-.header {
-  padding: 1rem 2rem;
-  display: flex;
-  background-color: #fff4cc;
-  justify-content: space-between;
-}
-
-.site-title {
-  font-size: 1.5rem;
-}
-
 .search-content {
-  display: flex;
+  /* display: flex; */
   gap: 1rem;
 }
 
