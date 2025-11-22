@@ -4,14 +4,14 @@ const Header = ({ onColorSearchClick }) => {
   return (
     <div>
       <header className="header">
-        <h1 className="site-title">花束作成支援サイト</h1>
+        <h1 className=" font-dancing site-title">BooPick</h1>
         <div className="search-content">
           {/* todo:クリックしたら下矢印を上矢印にする */}
           <button className="search-button" onClick={onColorSearchClick}>
-            色から探す▼
+            色▼
           </button>
-          <button className="search-button">開花時期から探す▼</button>
-          <button className="search-button">イベントから探す▼</button>
+          <button className="search-button">開▼</button>
+          <button className="search-button">イ▼</button>
         </div>
       </header>
     </div>
