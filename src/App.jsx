@@ -120,10 +120,24 @@ function App() {
         )}
 
         {selectedData && (
-          <ExpandableDetail
-            data={selectedData}
-            onClose={() => setSelectedData(null)}
-          />
+          <>
+            <div className="hidden md:block">
+              <ExpandableDetail
+                data={selectedData}
+                onClose={() => setSelectedData(null)}
+                isMobile={false}
+                flowerMetadata={flowerMetadata}
+              />
+            </div>
+            <div className="md:hidden fixed bottom-20 left-0 right-0 top-20 z-20 px-4">
+              <ExpandableDetail
+                data={selectedData}
+                onClose={() => setSelectedData(null)}
+                isMobile={true}
+                flowerMetadata={flowerMetadata}
+              />
+            </div>
+          </>
         )}
       </main>
 
